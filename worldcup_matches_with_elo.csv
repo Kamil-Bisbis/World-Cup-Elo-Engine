@@ -1,0 +1,965 @@
+Tournament Name,Stage Name,date,time,team1,team2,team1_score,team2_score,result,Home Team Win,Away Team Win,Draw,tournament_year,match_id,team1_elo_start,team2_elo_start,team1_elo_end,team2_elo_end
+1930 FIFA World Cup,group stage,1930-07-13,15:00,France,Mexico,4,1,home team win,1,0,0,1930,1,1500.0,1500.0,1523.0,1477.0
+1930 FIFA World Cup,group stage,1930-07-13,15:00,United States,Belgium,3,0,home team win,1,0,0,1930,2,1500.0,1500.0,1523.0,1477.0
+1930 FIFA World Cup,group stage,1930-07-14,12:45,Yugoslavia,Brazil,2,1,home team win,1,0,0,1930,3,1500.0,1500.0,1521.0,1479.0
+1930 FIFA World Cup,group stage,1930-07-14,14:50,Romania,Peru,3,1,home team win,1,0,0,1930,4,1500.0,1500.0,1522.0,1478.0
+1930 FIFA World Cup,group stage,1930-07-15,16:00,Argentina,France,1,0,home team win,1,0,0,1930,5,1500.0,1523.0,1522.39,1500.61
+1930 FIFA World Cup,group stage,1930-07-16,14:45,Chile,Mexico,3,0,home team win,1,0,0,1930,6,1500.0,1477.0,1521.48,1455.52
+1930 FIFA World Cup,group stage,1930-07-17,12:45,Yugoslavia,Bolivia,4,0,home team win,1,0,0,1930,7,1521.0,1500.0,1543.55,1477.45
+1930 FIFA World Cup,group stage,1930-07-17,14:45,United States,Paraguay,3,0,home team win,1,0,0,1930,8,1523.0,1500.0,1544.48,1478.52
+1930 FIFA World Cup,group stage,1930-07-18,14:30,Uruguay,Peru,1,0,home team win,1,0,0,1930,9,1500.0,1478.0,1519.67,1458.33
+1930 FIFA World Cup,group stage,1930-07-19,12:50,Chile,France,1,0,home team win,1,0,0,1930,10,1521.48,1500.61,1541.22,1480.87
+1930 FIFA World Cup,group stage,1930-07-19,15:00,Argentina,Mexico,6,3,home team win,1,0,0,1930,11,1522.39,1455.52,1541.02,1436.89
+1930 FIFA World Cup,group stage,1930-07-20,13:00,Brazil,Bolivia,4,0,home team win,1,0,0,1930,12,1479.0,1477.45,1502.89,1453.56
+1930 FIFA World Cup,group stage,1930-07-20,15:00,Paraguay,Belgium,1,0,home team win,1,0,0,1930,13,1478.52,1477.0,1499.43,1456.09
+1930 FIFA World Cup,group stage,1930-07-21,14:50,Uruguay,Romania,4,0,home team win,1,0,0,1930,14,1519.67,1522.0,1543.83,1497.84
+1930 FIFA World Cup,group stage,1930-07-22,14:45,Argentina,Chile,3,1,home team win,1,0,0,1930,15,1541.02,1541.22,1563.03,1519.21
+1930 FIFA World Cup,semi-finals,1930-07-26,14:45,Argentina,United States,6,1,home team win,1,0,0,1930,16,1563.03,1544.48,1631.66,1475.85
+1930 FIFA World Cup,semi-finals,1930-07-27,14:45,Uruguay,Yugoslavia,6,1,home team win,1,0,0,1930,17,1543.83,1543.55,1616.27,1471.11
+1930 FIFA World Cup,final,1930-07-30,14:15,Uruguay,Argentina,4,2,home team win,1,0,0,1930,18,1616.27,1631.66,1926.96,1545.97
+1934 FIFA World Cup,round of 16,1934-05-27,16:00,Austria,France,3,2,home team win,1,0,0,1934,19,1500.0,1480.87,1529.29,1451.58
+1934 FIFA World Cup,round of 16,1934-05-27,16:00,Czechoslovakia,Romania,2,1,home team win,1,0,0,1934,20,1500.0,1497.84,1530.81,1467.03
+1934 FIFA World Cup,round of 16,1934-05-27,16:00,Germany,Belgium,5,2,home team win,1,0,0,1934,21,1500.0,1456.09,1528.85,1427.24
+1934 FIFA World Cup,round of 16,1934-05-27,16:00,Hungary,Egypt,4,2,home team win,1,0,0,1934,22,1500.0,1500.0,1532.0,1468.0
+1934 FIFA World Cup,round of 16,1934-05-27,16:00,Italy,United States,7,1,home team win,1,0,0,1934,23,1500.0,1475.85,1533.5,1442.35
+1934 FIFA World Cup,round of 16,1934-05-27,16:00,Spain,Brazil,3,1,home team win,1,0,0,1934,24,1500.0,1502.89,1532.27,1470.62
+1934 FIFA World Cup,round of 16,1934-05-27,16:00,Sweden,Argentina,3,2,home team win,1,0,0,1934,25,1500.0,1545.97,1535.08,1510.89
+1934 FIFA World Cup,round of 16,1934-05-27,16:00,Switzerland,Netherlands,3,2,home team win,1,0,0,1934,26,1500.0,1500.0,1531.0,1469.0
+1934 FIFA World Cup,quarter-finals,1934-05-31,16:30,Austria,Hungary,2,1,home team win,1,0,0,1934,27,1529.29,1532.0,1575.65,1485.64
+1934 FIFA World Cup,quarter-finals,1934-05-31,16:30,Czechoslovakia,Switzerland,3,2,home team win,1,0,0,1934,28,1530.81,1531.0,1576.84,1484.97
+1934 FIFA World Cup,quarter-finals,1934-05-31,16:30,Germany,Sweden,2,1,home team win,1,0,0,1934,29,1528.85,1535.08,1575.67,1488.26
+1934 FIFA World Cup,quarter-finals,1934-05-31,16:30,Italy,Spain,1,1,draw,0,0,1,1934,30,1533.5,1532.27,1533.34,1532.43
+1934 FIFA World Cup,quarter-finals,1934-06-01,16:30,Italy,Spain,1,0,home team win,1,0,0,1934,31,1533.34,1532.43,1579.22,1486.55
+1934 FIFA World Cup,semi-finals,1934-06-03,16:30,Czechoslovakia,Germany,3,1,home team win,1,0,0,1934,32,1576.84,1575.67,1646.11,1506.4
+1934 FIFA World Cup,semi-finals,1934-06-03,16:30,Italy,Austria,1,0,home team win,1,0,0,1934,33,1579.22,1575.65,1647.02,1507.85
+1934 FIFA World Cup,third-place match,1934-06-07,18:00,Germany,Austria,3,2,home team win,1,0,0,1934,34,1506.4,1507.85,1527.49,1486.76
+1934 FIFA World Cup,final,1934-06-10,17:00,Italy,Czechoslovakia,2,1,home team win,1,0,0,1934,35,1647.02,1646.11,1949.49,1568.64
+1938 FIFA World Cup,round of 16,1938-06-04,17:00,Switzerland,Germany,1,1,draw,0,0,1,1938,36,1484.97,1527.49,1488.62,1523.84
+1938 FIFA World Cup,round of 16,1938-06-05,17:00,Cuba,Romania,3,3,draw,0,0,1,1938,37,1500.0,1467.03,1497.16,1469.87
+1938 FIFA World Cup,round of 16,1938-06-05,17:00,France,Belgium,3,1,home team win,1,0,0,1938,38,1451.58,1427.24,1481.34,1397.48
+1938 FIFA World Cup,round of 16,1938-06-05,17:00,Hungary,Dutch East Indies,6,0,home team win,1,0,0,1938,39,1485.64,1500.0,1523.13,1462.51
+1938 FIFA World Cup,round of 16,1938-06-05,17:00,Italy,Norway,2,1,home team win,1,0,0,1938,40,1949.49,1500.0,1953.83,1495.66
+1938 FIFA World Cup,round of 16,1938-06-05,17:30,Brazil,Poland,6,5,home team win,1,0,0,1938,41,1470.62,1500.0,1504.24,1466.38
+1938 FIFA World Cup,round of 16,1938-06-05,18:30,Czechoslovakia,Netherlands,3,0,home team win,1,0,0,1938,42,1568.64,1469.0,1592.43,1445.21
+1938 FIFA World Cup,round of 16,1938-06-09,18:00,Cuba,Romania,2,1,home team win,1,0,0,1938,43,1497.16,1469.87,1525.73,1441.3
+1938 FIFA World Cup,round of 16,1938-06-09,18:00,Switzerland,Germany,4,2,home team win,1,0,0,1938,44,1488.62,1523.84,1523.85,1488.61
+1938 FIFA World Cup,quarter-finals,1938-06-12,17:00,Sweden,Cuba,8,0,home team win,1,0,0,1938,45,1488.26,1525.73,1546.95,1467.04
+1938 FIFA World Cup,quarter-finals,1938-06-12,17:00,Italy,France,3,1,home team win,1,0,0,1938,46,1953.83,1481.34,1959.64,1475.53
+1938 FIFA World Cup,quarter-finals,1938-06-12,17:00,Hungary,Switzerland,2,0,home team win,1,0,0,1938,47,1523.13,1523.85,1570.23,1476.75
+1938 FIFA World Cup,quarter-finals,1938-06-12,17:00,Brazil,Czechoslovakia,1,1,draw,0,0,1,1938,48,1504.24,1592.43,1515.42,1581.25
+1938 FIFA World Cup,quarter-finals,1938-06-14,18:00,Brazil,Czechoslovakia,2,1,home team win,1,0,0,1938,49,1515.42,1581.25,1570.03,1526.64
+1938 FIFA World Cup,semi-finals,1938-06-16,18:00,Hungary,Sweden,5,1,home team win,1,0,0,1938,50,1570.23,1546.95,1636.95,1480.23
+1938 FIFA World Cup,semi-finals,1938-06-16,18:00,Italy,Brazil,2,1,home team win,1,0,0,1938,51,1959.64,1570.03,1972.79,1556.88
+1938 FIFA World Cup,third-place match,1938-06-19,17:00,Brazil,Sweden,4,2,home team win,1,0,0,1938,52,1556.88,1480.23,1574.1,1463.01
+1938 FIFA World Cup,final,1938-06-19,17:00,Italy,Hungary,4,2,home team win,1,0,0,1938,53,1972.79,1636.95,2161.69,1673.05
+1950 FIFA World Cup,group stage,1950-06-24,15:00,Brazil,Mexico,4,0,home team win,1,0,0,1950,54,1574.1,1436.89,1589.09,1421.9
+1950 FIFA World Cup,group stage,1950-06-25,15:00,Yugoslavia,Switzerland,3,0,home team win,1,0,0,1950,55,1471.11,1476.75,1494.48,1453.38
+1950 FIFA World Cup,group stage,1950-06-25,15:00,England,Chile,2,0,home team win,1,0,0,1950,56,1500.0,1519.21,1523.22,1495.99
+1950 FIFA World Cup,group stage,1950-06-25,15:00,Spain,United States,3,1,home team win,1,0,0,1950,57,1486.55,1442.35,1505.77,1423.13
+1950 FIFA World Cup,group stage,1950-06-25,15:00,Sweden,Italy,3,2,home team win,1,0,0,1950,58,1463.01,2161.69,1504.27,2120.43
+1950 FIFA World Cup,group stage,1950-06-28,15:00,Brazil,Switzerland,2,2,draw,0,0,1,1950,59,1589.09,1453.38,1581.65,1460.82
+1950 FIFA World Cup,group stage,1950-06-28,15:00,Yugoslavia,Mexico,4,1,home team win,1,0,0,1950,60,1494.48,1421.9,1512.74,1403.64
+1950 FIFA World Cup,group stage,1950-06-29,15:30,Sweden,Paraguay,2,2,draw,0,0,1,1950,61,1504.27,1499.43,1503.99,1499.71
+1950 FIFA World Cup,group stage,1950-06-29,15:00,Spain,Chile,2,0,home team win,1,0,0,1950,62,1505.77,1495.99,1527.15,1474.61
+1950 FIFA World Cup,group stage,1950-06-29,15:00,United States,England,1,0,home team win,1,0,0,1950,63,1423.13,1523.22,1450.02,1496.33
+1950 FIFA World Cup,group stage,1950-07-01,15:00,Brazil,Yugoslavia,2,0,home team win,1,0,0,1950,64,1581.65,1512.74,1599.34,1495.05
+1950 FIFA World Cup,group stage,1950-07-02,15:00,Chile,United States,5,2,home team win,1,0,0,1950,65,1474.61,1450.02,1495.98,1428.65
+1950 FIFA World Cup,group stage,1950-07-02,15:00,Spain,England,1,0,home team win,1,0,0,1950,66,1527.15,1496.33,1546.29,1477.19
+1950 FIFA World Cup,group stage,1950-07-02,15:00,Italy,Paraguay,2,0,home team win,1,0,0,1950,67,2120.43,1499.71,2121.63,1498.51
+1950 FIFA World Cup,group stage,1950-07-02,15:00,Uruguay,Bolivia,8,0,home team win,1,0,0,1950,68,1926.96,1453.56,1930.4,1450.12
+1950 FIFA World Cup,group stage,1950-07-02,15:40,Switzerland,Mexico,2,1,home team win,1,0,0,1950,69,1460.82,1403.64,1478.39,1386.07
+1950 FIFA World Cup,final round,1950-07-09,15:00,Brazil,Sweden,7,1,home team win,1,0,0,1950,70,1599.34,1503.99,1618.38,1484.95
+1950 FIFA World Cup,final round,1950-07-09,15:00,Uruguay,Spain,2,2,draw,0,0,1,1950,71,1930.4,1546.29,1914.35,1562.34
+1950 FIFA World Cup,final round,1950-07-13,15:00,Brazil,Spain,6,1,home team win,1,0,0,1950,72,1618.38,1562.34,1639.38,1541.34
+1950 FIFA World Cup,final round,1950-07-13,15:00,Uruguay,Sweden,3,2,home team win,1,0,0,1950,73,1914.35,1484.95,1917.62,1481.68
+1950 FIFA World Cup,final round,1950-07-16,15:00,Sweden,Spain,3,1,home team win,1,0,0,1950,74,1481.68,1541.34,1507.42,1515.6
+1950 FIFA World Cup,final round,1950-07-16,15:00,Uruguay,Brazil,2,1,home team win,1,0,0,1950,75,1917.62,1639.38,1924.67,1632.33
+1954 FIFA World Cup,group stage,1954-06-16,18:00,Uruguay,Czechoslovakia,2,0,home team win,1,0,0,1954,76,1924.67,1526.64,1928.71,1522.6
+1954 FIFA World Cup,group stage,1954-06-16,18:00,Austria,Scotland,1,0,home team win,1,0,0,1954,77,1486.76,1500.0,1508.56,1478.2
+1954 FIFA World Cup,group stage,1954-06-16,18:00,Yugoslavia,France,1,0,home team win,1,0,0,1954,78,1495.05,1475.53,1514.87,1455.71
+1954 FIFA World Cup,group stage,1954-06-16,18:00,Brazil,Mexico,5,0,home team win,1,0,0,1954,79,1632.33,1386.07,1642.08,1376.32
+1954 FIFA World Cup,group stage,1954-06-17,17:50,Switzerland,Italy,2,1,home team win,1,0,0,1954,80,1478.39,2121.63,1519.38,2080.64
+1954 FIFA World Cup,group stage,1954-06-17,18:00,Hungary,South Korea,9,0,home team win,1,0,0,1954,81,1673.05,1500.0,1688.69,1484.36
+1954 FIFA World Cup,group stage,1954-06-17,18:00,Germany,Turkey,4,1,home team win,1,0,0,1954,82,1488.61,1500.0,1512.36,1476.25
+1954 FIFA World Cup,group stage,1954-06-17,18:10,England,Belgium,4,4,draw,0,0,1,1954,83,1477.19,1397.48,1472.68,1401.99
+1954 FIFA World Cup,group stage,1954-06-19,16:50,Uruguay,Scotland,7,0,home team win,1,0,0,1954,84,1928.71,1478.2,1932.47,1474.44
+1954 FIFA World Cup,group stage,1954-06-19,17:00,Brazil,Yugoslavia,1,1,draw,0,0,1,1954,85,1642.08,1514.87,1635.07,1521.88
+1954 FIFA World Cup,group stage,1954-06-19,17:00,Austria,Czechoslovakia,5,0,home team win,1,0,0,1954,86,1508.56,1522.6,1534.57,1496.59
+1954 FIFA World Cup,group stage,1954-06-19,17:10,France,Mexico,3,2,home team win,1,0,0,1954,87,1455.71,1376.32,1471.99,1360.04
+1954 FIFA World Cup,group stage,1954-06-20,16:50,Hungary,Germany,8,3,home team win,1,0,0,1954,88,1688.69,1512.36,1701.99,1499.06
+1954 FIFA World Cup,group stage,1954-06-20,17:00,Turkey,South Korea,7,0,home team win,1,0,0,1954,89,1476.25,1484.36,1503.88,1456.73
+1954 FIFA World Cup,group stage,1954-06-20,17:10,England,Switzerland,2,0,home team win,1,0,0,1954,90,1472.68,1519.38,1497.62,1494.44
+1954 FIFA World Cup,group stage,1954-06-20,17:00,Italy,Belgium,4,1,home team win,1,0,0,1954,91,2080.64,1401.99,2081.55,1401.08
+1954 FIFA World Cup,group stage,1954-06-23,18:00,Switzerland,Italy,4,1,home team win,1,0,0,1954,92,1494.44,2081.55,1538.92,2037.07
+1954 FIFA World Cup,group stage,1954-06-23,18:00,Germany,Turkey,7,2,home team win,1,0,0,1954,93,1499.06,1503.88,1524.41,1478.53
+1954 FIFA World Cup,quarter-finals,1954-06-26,17:00,Austria,Switzerland,7,5,home team win,1,0,0,1954,94,1534.57,1538.92,1582.16,1491.33
+1954 FIFA World Cup,quarter-finals,1954-06-26,17:00,Uruguay,England,4,2,home team win,1,0,0,1954,95,1932.47,1497.62,1939.58,1490.51
+1954 FIFA World Cup,quarter-finals,1954-06-27,17:00,Hungary,Brazil,4,2,home team win,1,0,0,1954,96,1701.99,1635.07,1740.05,1597.01
+1954 FIFA World Cup,quarter-finals,1954-06-27,17:00,Germany,Yugoslavia,2,0,home team win,1,0,0,1954,97,1524.41,1521.88,1571.07,1475.22
+1954 FIFA World Cup,semi-finals,1954-06-30,18:00,Hungary,Uruguay,4,2,home team win,1,0,0,1954,98,1740.05,1939.58,1845.59,1834.04
+1954 FIFA World Cup,semi-finals,1954-06-30,18:00,Germany,Austria,6,1,home team win,1,0,0,1954,99,1571.07,1582.16,1645.88,1507.35
+1954 FIFA World Cup,third-place match,1954-07-03,17:00,Austria,Uruguay,3,1,home team win,1,0,0,1954,100,1507.35,1834.04,1545.53,1795.86
+1954 FIFA World Cup,final,1954-07-04,17:00,Germany,Hungary,3,2,home team win,1,0,0,1954,101,1645.88,1845.59,2028.08,1688.39
+1958 FIFA World Cup,group stage,1958-06-08,19:00,Soviet Union,England,2,2,draw,0,0,1,1958,102,1500.0,1490.51,1499.45,1491.06
+1958 FIFA World Cup,group stage,1958-06-08,19:00,Brazil,Austria,3,0,home team win,1,0,0,1958,103,1597.01,1545.53,1616.63,1525.91
+1958 FIFA World Cup,group stage,1958-06-08,19:00,Hungary,Wales,1,1,draw,0,0,1,1958,104,1688.39,1500.0,1678.5,1509.89
+1958 FIFA World Cup,group stage,1958-06-08,19:00,Yugoslavia,Scotland,1,1,draw,0,0,1,1958,105,1475.22,1474.44,1475.18,1474.48
+1958 FIFA World Cup,group stage,1958-06-08,19:00,Northern Ireland,Czechoslovakia,1,0,home team win,1,0,0,1958,106,1500.0,1496.59,1520.79,1475.8
+1958 FIFA World Cup,group stage,1958-06-08,19:00,Argentina,Germany,1,3,away team win,0,1,0,1958,107,1510.89,2028.08,1508.76,2030.21
+1958 FIFA World Cup,group stage,1958-06-08,14:00,Sweden,Mexico,3,0,home team win,1,0,0,1958,108,1507.42,1360.04,1521.21,1346.25
+1958 FIFA World Cup,group stage,1958-06-08,19:00,France,Paraguay,7,3,home team win,1,0,0,1958,109,1471.99,1498.51,1497.82,1472.68
+1958 FIFA World Cup,group stage,1958-06-11,19:00,Argentina,Northern Ireland,3,1,home team win,1,0,0,1958,110,1508.76,1520.79,1531.52,1498.03
+1958 FIFA World Cup,group stage,1958-06-11,19:00,Germany,Czechoslovakia,2,2,draw,0,0,1,1958,111,2030.21,1475.8,2011.79,1494.22
+1958 FIFA World Cup,group stage,1958-06-11,19:00,Paraguay,Scotland,3,2,home team win,1,0,0,1958,112,1472.68,1474.48,1493.79,1453.37
+1958 FIFA World Cup,group stage,1958-06-11,19:00,Yugoslavia,France,3,2,home team win,1,0,0,1958,113,1475.18,1497.82,1497.55,1475.45
+1958 FIFA World Cup,group stage,1958-06-11,19:00,Mexico,Wales,1,1,draw,0,0,1,1958,114,1346.25,1509.89,1355.03,1501.11
+1958 FIFA World Cup,group stage,1958-06-11,19:00,Brazil,England,0,0,draw,0,0,1,1958,115,1616.63,1491.06,1609.7,1497.99
+1958 FIFA World Cup,group stage,1958-06-11,19:00,Soviet Union,Austria,2,0,home team win,1,0,0,1958,116,1499.45,1525.91,1523.12,1502.24
+1958 FIFA World Cup,group stage,1958-06-12,19:00,Sweden,Hungary,2,1,home team win,1,0,0,1958,117,1521.21,1678.5,1551.12,1648.59
+1958 FIFA World Cup,group stage,1958-06-15,19:00,Brazil,Soviet Union,2,0,home team win,1,0,0,1958,118,1609.7,1523.12,1626.33,1506.49
+1958 FIFA World Cup,group stage,1958-06-15,19:00,Hungary,Mexico,4,0,home team win,1,0,0,1958,119,1648.59,1355.03,1656.07,1347.55
+1958 FIFA World Cup,group stage,1958-06-15,19:00,England,Austria,2,2,draw,0,0,1,1958,120,1497.99,1502.24,1498.23,1502.0
+1958 FIFA World Cup,group stage,1958-06-15,19:00,Paraguay,Yugoslavia,3,3,draw,0,0,1,1958,121,1493.79,1497.55,1494.01,1497.33
+1958 FIFA World Cup,group stage,1958-06-15,19:00,France,Scotland,2,1,home team win,1,0,0,1958,122,1475.45,1453.37,1495.12,1433.7
+1958 FIFA World Cup,group stage,1958-06-15,19:00,Germany,Northern Ireland,2,2,draw,0,0,1,1958,123,2011.79,1498.03,1993.77,1516.05
+1958 FIFA World Cup,group stage,1958-06-15,19:00,Czechoslovakia,Argentina,6,1,home team win,1,0,0,1958,124,1494.22,1531.52,1521.89,1503.85
+1958 FIFA World Cup,group stage,1958-06-15,14:00,Sweden,Wales,0,0,draw,0,0,1,1958,125,1551.12,1501.11,1548.26,1503.97
+1958 FIFA World Cup,group stage,1958-06-17,19:00,Northern Ireland,Czechoslovakia,2,1,home team win,1,0,0,1958,126,1516.05,1521.89,1537.4,1500.54
+1958 FIFA World Cup,group stage,1958-06-17,19:00,Wales,Hungary,2,1,home team win,1,0,0,1958,127,1503.97,1656.07,1533.62,1626.42
+1958 FIFA World Cup,group stage,1958-06-17,19:00,Soviet Union,England,1,0,home team win,1,0,0,1958,128,1506.49,1498.23,1526.99,1477.73
+1958 FIFA World Cup,quarter-finals,1958-06-19,19:00,Brazil,Wales,1,0,home team win,1,0,0,1958,129,1626.33,1533.62,1660.34,1499.61
+1958 FIFA World Cup,quarter-finals,1958-06-19,19:00,France,Northern Ireland,4,0,home team win,1,0,0,1958,130,1495.12,1537.4,1550.05,1482.47
+1958 FIFA World Cup,quarter-finals,1958-06-19,19:00,Sweden,Soviet Union,2,0,home team win,1,0,0,1958,131,1548.26,1526.99,1592.39,1482.86
+1958 FIFA World Cup,quarter-finals,1958-06-19,19:00,Germany,Yugoslavia,1,0,home team win,1,0,0,1958,132,1993.77,1497.33,1998.76,1492.34
+1958 FIFA World Cup,semi-finals,1958-06-24,19:00,Brazil,France,5,2,home team win,1,0,0,1958,133,1660.34,1550.05,1709.18,1501.21
+1958 FIFA World Cup,semi-finals,1958-06-24,19:00,Sweden,Germany,3,1,home team win,1,0,0,1958,134,1592.39,1998.76,1719.17,1871.98
+1958 FIFA World Cup,third-place match,1958-06-28,17:00,France,Germany,6,3,home team win,1,0,0,1958,135,1501.21,1871.98,1542.34,1830.85
+1958 FIFA World Cup,final,1958-06-29,15:00,Brazil,Sweden,5,2,home team win,1,0,0,1958,136,1709.18,1719.17,2018.51,1634.84
+1962 FIFA World Cup,group stage,1962-05-30,15:00,Uruguay,Colombia,2,1,home team win,1,0,0,1962,137,1795.86,1500.0,1802.33,1493.53
+1962 FIFA World Cup,group stage,1962-05-30,15:00,Chile,Switzerland,3,1,home team win,1,0,0,1962,138,1495.98,1491.33,1517.69,1469.62
+1962 FIFA World Cup,group stage,1962-05-30,15:00,Brazil,Mexico,2,0,home team win,1,0,0,1962,139,2018.51,1347.55,2019.42,1346.64
+1962 FIFA World Cup,group stage,1962-05-30,15:00,Argentina,Bulgaria,1,0,home team win,1,0,0,1962,140,1503.85,1500.0,1524.62,1479.23
+1962 FIFA World Cup,group stage,1962-05-31,15:00,Soviet Union,Yugoslavia,2,0,home team win,1,0,0,1962,141,1482.86,1492.34,1505.46,1469.74
+1962 FIFA World Cup,group stage,1962-05-31,15:00,Germany,Italy,0,0,draw,0,0,1,1962,142,1830.85,2037.07,1841.5,2026.42
+1962 FIFA World Cup,group stage,1962-05-31,15:00,Czechoslovakia,Spain,1,0,home team win,1,0,0,1962,143,1500.54,1515.6,1522.45,1493.69
+1962 FIFA World Cup,group stage,1962-05-31,15:00,Hungary,England,2,1,home team win,1,0,0,1962,144,1626.42,1477.73,1638.94,1465.21
+1962 FIFA World Cup,group stage,1962-06-02,15:00,Yugoslavia,Uruguay,3,1,home team win,1,0,0,1962,145,1469.74,1802.33,1508.09,1763.98
+1962 FIFA World Cup,group stage,1962-06-02,15:00,Chile,Italy,2,0,home team win,1,0,0,1962,146,1517.69,2026.42,1559.46,1984.65
+1962 FIFA World Cup,group stage,1962-06-02,15:00,Brazil,Czechoslovakia,0,0,draw,0,0,1,1962,147,2019.42,1522.45,2001.59,1540.28
+1962 FIFA World Cup,group stage,1962-06-02,15:00,England,Argentina,3,1,home team win,1,0,0,1962,148,1465.21,1524.62,1490.94,1498.89
+1962 FIFA World Cup,group stage,1962-06-03,15:00,Spain,Mexico,1,0,home team win,1,0,0,1962,149,1493.69,1346.64,1506.3,1334.03
+1962 FIFA World Cup,group stage,1962-06-03,15:00,Hungary,Bulgaria,6,1,home team win,1,0,0,1962,150,1638.94,1479.23,1653.19,1464.98
+1962 FIFA World Cup,group stage,1962-06-03,15:00,Soviet Union,Colombia,4,4,draw,0,0,1,1962,151,1505.46,1493.53,1504.77,1494.22
+1962 FIFA World Cup,group stage,1962-06-03,15:00,Germany,Switzerland,2,1,home team win,1,0,0,1962,152,1841.5,1469.62,1845.92,1465.2
+1962 FIFA World Cup,group stage,1962-06-06,15:00,Soviet Union,Uruguay,2,1,home team win,1,0,0,1962,153,1504.77,1763.98,1539.06,1729.69
+1962 FIFA World Cup,group stage,1962-06-06,15:00,Germany,Chile,2,0,home team win,1,0,0,1962,154,1845.92,1559.46,1853.01,1552.37
+1962 FIFA World Cup,group stage,1962-06-06,15:00,Brazil,Spain,2,1,home team win,1,0,0,1962,155,2001.59,1506.3,2003.88,1504.01
+1962 FIFA World Cup,group stage,1962-06-06,15:00,Hungary,Argentina,0,0,draw,0,0,1,1962,156,1653.19,1498.89,1644.85,1507.23
+1962 FIFA World Cup,group stage,1962-06-07,15:00,Yugoslavia,Colombia,5,0,home team win,1,0,0,1962,157,1508.09,1494.22,1532.09,1470.22
+1962 FIFA World Cup,group stage,1962-06-07,15:00,Italy,Switzerland,3,0,home team win,1,0,0,1962,158,1984.65,1465.2,1986.85,1463.0
+1962 FIFA World Cup,group stage,1962-06-07,15:00,Mexico,Czechoslovakia,3,1,home team win,1,0,0,1962,159,1334.03,1540.28,1367.75,1506.56
+1962 FIFA World Cup,group stage,1962-06-07,15:00,England,Bulgaria,0,0,draw,0,0,1,1962,160,1490.94,1464.98,1489.45,1466.47
+1962 FIFA World Cup,quarter-finals,1962-06-10,14:30,Brazil,England,3,1,home team win,1,0,0,1962,161,2003.88,1489.45,2008.51,1484.82
+1962 FIFA World Cup,quarter-finals,1962-06-10,14:30,Chile,Soviet Union,2,1,home team win,1,0,0,1962,162,1552.37,1539.06,1596.61,1494.82
+1962 FIFA World Cup,quarter-finals,1962-06-10,14:30,Czechoslovakia,Hungary,1,0,home team win,1,0,0,1962,163,1506.56,1644.85,1569.96,1581.45
+1962 FIFA World Cup,quarter-finals,1962-06-10,14:30,Yugoslavia,Germany,1,0,home team win,1,0,0,1962,164,1532.09,1853.01,1611.56,1773.54
+1962 FIFA World Cup,semi-finals,1962-06-13,14:30,Czechoslovakia,Yugoslavia,3,1,home team win,1,0,0,1962,165,1569.96,1611.56,1647.74,1533.78
+1962 FIFA World Cup,semi-finals,1962-06-13,14:30,Brazil,Chile,4,2,home team win,1,0,0,1962,166,2008.51,1596.61,2020.38,1584.74
+1962 FIFA World Cup,third-place match,1962-06-16,14:30,Chile,Yugoslavia,1,0,home team win,1,0,0,1962,167,1584.74,1533.78,1602.68,1515.84
+1962 FIFA World Cup,final,1962-06-17,14:30,Brazil,Czechoslovakia,3,1,home team win,1,0,0,1962,168,2020.38,1647.74,2202.63,1690.49
+1966 FIFA World Cup,group stage,1966-07-11,19:30,England,Uruguay,0,0,draw,0,0,1,1966,169,1484.82,1729.69,1496.97,1717.54
+1966 FIFA World Cup,group stage,1966-07-12,19:30,Germany,Switzerland,5,0,home team win,1,0,0,1966,170,1773.54,1463.0,1780.71,1455.83
+1966 FIFA World Cup,group stage,1966-07-12,19:30,Brazil,Bulgaria,2,0,home team win,1,0,0,1966,171,2202.63,1466.47,2203.26,1465.84
+1966 FIFA World Cup,group stage,1966-07-12,19:30,Soviet Union,North Korea,3,0,home team win,1,0,0,1966,172,1494.82,1500.0,1518.16,1476.66
+1966 FIFA World Cup,group stage,1966-07-13,19:30,Argentina,Spain,2,1,home team win,1,0,0,1966,173,1507.23,1504.01,1528.04,1483.2
+1966 FIFA World Cup,group stage,1966-07-13,19:30,France,Mexico,1,1,draw,0,0,1,1966,174,1542.34,1367.75,1533.06,1377.03
+1966 FIFA World Cup,group stage,1966-07-13,19:30,Portugal,Hungary,3,1,home team win,1,0,0,1966,175,1500.0,1581.45,1527.07,1554.38
+1966 FIFA World Cup,group stage,1966-07-13,19:30,Italy,Chile,2,0,home team win,1,0,0,1966,176,1986.85,1602.68,1991.19,1598.34
+1966 FIFA World Cup,group stage,1966-07-15,19:30,Uruguay,France,2,1,home team win,1,0,0,1966,177,1717.54,1533.06,1728.33,1522.27
+1966 FIFA World Cup,group stage,1966-07-15,19:30,Spain,Switzerland,2,1,home team win,1,0,0,1966,178,1483.2,1455.83,1502.55,1436.48
+1966 FIFA World Cup,group stage,1966-07-15,19:30,Hungary,Brazil,3,1,home team win,1,0,0,1966,179,1554.38,2203.26,1597.35,2160.29
+1966 FIFA World Cup,group stage,1966-07-15,19:30,Chile,North Korea,1,1,draw,0,0,1,1966,180,1598.34,1476.66,1591.61,1483.39
+1966 FIFA World Cup,group stage,1966-07-16,19:30,England,Mexico,2,0,home team win,1,0,0,1966,181,1496.97,1377.03,1511.66,1362.34
+1966 FIFA World Cup,group stage,1966-07-16,15:00,Soviet Union,Italy,1,0,home team win,1,0,0,1966,182,1518.16,1991.19,1557.57,1951.78
+1966 FIFA World Cup,group stage,1966-07-16,15:00,Portugal,Bulgaria,3,0,home team win,1,0,0,1966,183,1527.07,1465.84,1546.06,1446.85
+1966 FIFA World Cup,group stage,1966-07-16,15:00,Argentina,Germany,0,0,draw,0,0,1,1966,184,1528.04,1780.71,1540.47,1768.28
+1966 FIFA World Cup,group stage,1966-07-19,16:30,Mexico,Uruguay,0,0,draw,0,0,1,1966,185,1362.34,1728.33,1378.0,1712.67
+1966 FIFA World Cup,group stage,1966-07-19,19:30,Argentina,Switzerland,2,0,home team win,1,0,0,1966,186,1540.47,1436.48,1556.08,1420.87
+1966 FIFA World Cup,group stage,1966-07-19,19:30,Portugal,Brazil,3,1,home team win,1,0,0,1966,187,1546.06,2160.29,1588.81,2117.54
+1966 FIFA World Cup,group stage,1966-07-19,19:30,North Korea,Italy,1,0,home team win,1,0,0,1966,188,1483.39,1951.78,1522.74,1912.43
+1966 FIFA World Cup,group stage,1966-07-20,19:30,England,France,2,0,home team win,1,0,0,1966,189,1511.66,1522.27,1534.33,1499.6
+1966 FIFA World Cup,group stage,1966-07-20,19:30,Germany,Spain,2,1,home team win,1,0,0,1966,190,1768.28,1502.55,1775.76,1495.07
+1966 FIFA World Cup,group stage,1966-07-20,19:30,Hungary,Bulgaria,3,1,home team win,1,0,0,1966,191,1597.35,1446.85,1610.37,1433.83
+1966 FIFA World Cup,group stage,1966-07-20,19:30,Soviet Union,Chile,2,1,home team win,1,0,0,1966,192,1557.57,1591.61,1580.62,1568.56
+1966 FIFA World Cup,quarter-finals,1966-07-23,15:00,England,Argentina,1,0,home team win,1,0,0,1966,193,1534.33,1556.08,1583.21,1507.2
+1966 FIFA World Cup,quarter-finals,1966-07-23,15:00,Portugal,North Korea,5,3,home team win,1,0,0,1966,194,1588.81,1522.74,1626.98,1484.57
+1966 FIFA World Cup,quarter-finals,1966-07-23,15:00,Soviet Union,Hungary,2,1,home team win,1,0,0,1966,195,1580.62,1610.37,1630.55,1560.44
+1966 FIFA World Cup,quarter-finals,1966-07-23,15:00,Germany,Uruguay,4,0,home team win,1,0,0,1966,196,1775.76,1712.67,1815.96,1672.47
+1966 FIFA World Cup,semi-finals,1966-07-25,19:30,Germany,Soviet Union,2,1,home team win,1,0,0,1966,197,1815.96,1630.55,1851.02,1595.49
+1966 FIFA World Cup,semi-finals,1966-07-26,19:30,England,Portugal,2,1,home team win,1,0,0,1966,198,1583.21,1626.98,1660.29,1549.9
+1966 FIFA World Cup,third-place match,1966-07-28,19:30,Portugal,Soviet Union,2,1,home team win,1,0,0,1966,199,1549.9,1595.49,1573.64,1571.75
+1966 FIFA World Cup,final,1966-07-30,15:00,England,Germany,4,2,home team win,1,0,0,1966,200,1660.29,1851.02,2041.06,1695.25
+1970 FIFA World Cup,group stage,1970-05-31,12:00,Mexico,Soviet Union,0,0,draw,0,0,1,1970,201,1378.0,1571.75,1388.12,1561.63
+1970 FIFA World Cup,group stage,1970-06-02,16:00,Uruguay,Israel,2,0,home team win,1,0,0,1970,202,1672.47,1500.0,1684.37,1488.1
+1970 FIFA World Cup,group stage,1970-06-02,16:00,England,Romania,1,0,home team win,1,0,0,1970,203,2041.06,1441.3,2042.35,1440.01
+1970 FIFA World Cup,group stage,1970-06-02,16:00,Peru,Bulgaria,3,2,home team win,1,0,0,1970,204,1458.33,1433.83,1477.85,1414.31
+1970 FIFA World Cup,group stage,1970-06-03,16:00,Belgium,El Salvador,3,0,home team win,1,0,0,1970,205,1401.08,1500.0,1430.46,1470.62
+1970 FIFA World Cup,group stage,1970-06-03,16:00,Italy,Sweden,1,0,home team win,1,0,0,1970,206,1912.43,1634.84,1919.5,1627.77
+1970 FIFA World Cup,group stage,1970-06-03,16:00,Brazil,Czechoslovakia,4,1,home team win,1,0,0,1970,207,2117.54,1690.49,2121.17,1686.86
+1970 FIFA World Cup,group stage,1970-06-03,16:00,Germany,Morocco,2,1,home team win,1,0,0,1970,208,1695.25,1500.0,1705.55,1489.7
+1970 FIFA World Cup,group stage,1970-06-06,16:00,Soviet Union,Belgium,4,1,home team win,1,0,0,1970,209,1561.63,1430.46,1576.34,1415.75
+1970 FIFA World Cup,group stage,1970-06-06,16:00,Uruguay,Italy,0,0,draw,0,0,1,1970,210,1684.37,1919.5,1696.16,1907.71
+1970 FIFA World Cup,group stage,1970-06-06,16:00,Romania,Czechoslovakia,2,1,home team win,1,0,0,1970,211,1440.01,1686.86,1473.84,1653.03
+1970 FIFA World Cup,group stage,1970-06-06,16:00,Peru,Morocco,3,0,home team win,1,0,0,1970,212,1477.85,1489.7,1501.63,1465.92
+1970 FIFA World Cup,group stage,1970-06-07,12:00,Germany,Bulgaria,5,2,home team win,1,0,0,1970,213,1705.55,1414.31,1712.8,1407.06
+1970 FIFA World Cup,group stage,1970-06-07,12:00,Brazil,England,1,0,home team win,1,0,0,1970,214,2121.17,2042.35,2137.49,2026.03
+1970 FIFA World Cup,group stage,1970-06-07,12:00,Mexico,El Salvador,4,0,home team win,1,0,0,1970,215,1388.12,1470.62,1417.71,1441.03
+1970 FIFA World Cup,group stage,1970-06-07,12:00,Sweden,Israel,1,1,draw,0,0,1,1970,216,1627.77,1488.1,1620.14,1495.73
+1970 FIFA World Cup,group stage,1970-06-10,16:00,Soviet Union,El Salvador,2,0,home team win,1,0,0,1970,217,1576.34,1441.03,1590.18,1427.19
+1970 FIFA World Cup,group stage,1970-06-10,16:00,Sweden,Uruguay,1,0,home team win,1,0,0,1970,218,1620.14,1696.16,1645.66,1670.64
+1970 FIFA World Cup,group stage,1970-06-10,16:00,Brazil,Romania,3,2,home team win,1,0,0,1970,219,2137.49,1473.84,2138.39,1472.94
+1970 FIFA World Cup,group stage,1970-06-10,16:00,Germany,Peru,3,1,home team win,1,0,0,1970,220,1712.8,1501.63,1722.86,1491.57
+1970 FIFA World Cup,group stage,1970-06-11,16:00,Mexico,Belgium,1,0,home team win,1,0,0,1970,221,1417.71,1415.75,1438.59,1394.87
+1970 FIFA World Cup,group stage,1970-06-11,16:00,Italy,Israel,0,0,draw,0,0,1,1970,222,1907.71,1495.73,1891.12,1512.32
+1970 FIFA World Cup,group stage,1970-06-11,16:00,England,Czechoslovakia,1,0,home team win,1,0,0,1970,223,2026.03,1653.03,2030.42,1648.64
+1970 FIFA World Cup,group stage,1970-06-11,16:00,Bulgaria,Morocco,1,1,draw,0,0,1,1970,224,1407.06,1465.92,1410.42,1462.56
+1970 FIFA World Cup,quarter-finals,1970-06-14,12:00,Germany,England,3,2,home team win,1,0,0,1970,225,1722.86,2030.42,1801.48,1951.8
+1970 FIFA World Cup,quarter-finals,1970-06-14,12:00,Brazil,Peru,4,2,home team win,1,0,0,1970,226,2138.39,1491.57,2140.61,1489.35
+1970 FIFA World Cup,quarter-finals,1970-06-14,12:00,Italy,Mexico,4,1,home team win,1,0,0,1970,227,1891.12,1438.59,1897.73,1431.98
+1970 FIFA World Cup,quarter-finals,1970-06-14,12:00,Soviet Union,Uruguay,0,1,away team win,0,1,0,1970,228,1590.18,1670.64,1554.65,1706.17
+1970 FIFA World Cup,semi-finals,1970-06-17,16:00,Italy,Germany,4,3,home team win,1,0,0,1970,229,1897.73,1801.48,1947.72,1751.49
+1970 FIFA World Cup,semi-finals,1970-06-17,16:00,Brazil,Uruguay,3,1,home team win,1,0,0,1970,230,2140.61,1706.17,2151.15,1695.63
+1970 FIFA World Cup,third-place match,1970-06-20,16:00,Germany,Uruguay,1,0,home team win,1,0,0,1970,231,1751.49,1695.63,1769.14,1677.98
+1970 FIFA World Cup,final,1970-06-21,12:00,Brazil,Italy,4,1,home team win,1,0,0,1970,232,2151.15,1947.72,2374.46,1949.41
+1974 FIFA World Cup,group stage,1974-06-13,17:00,Brazil,Yugoslavia,0,0,draw,0,0,1,1974,233,2374.46,1515.84,2354.74,1535.56
+1974 FIFA World Cup,group stage,1974-06-14,16:00,Germany,Chile,1,0,home team win,1,0,0,1974,234,1769.14,1568.56,1779.21,1558.49
+1974 FIFA World Cup,group stage,1974-06-14,19:30,East Germany,Australia,2,0,home team win,1,0,0,1974,235,1500.0,1500.0,1522.0,1478.0
+1974 FIFA World Cup,group stage,1974-06-14,19:30,Zaire,Scotland,0,2,away team win,0,1,0,1974,236,1500.0,1433.7,1473.85,1459.85
+1974 FIFA World Cup,group stage,1974-06-15,16:00,Sweden,Bulgaria,0,0,draw,0,0,1,1974,237,1645.66,1410.42,1633.87,1422.21
+1974 FIFA World Cup,group stage,1974-06-15,16:00,Uruguay,Netherlands,0,2,away team win,0,1,0,1974,238,1677.98,1445.21,1643.11,1480.08
+1974 FIFA World Cup,group stage,1974-06-15,18:00,Italy,Haiti,3,1,home team win,1,0,0,1974,239,1949.41,1500.0,1952.49,1496.92
+1974 FIFA World Cup,group stage,1974-06-15,18:00,Poland,Argentina,3,2,home team win,1,0,0,1974,240,1466.38,1507.2,1489.84,1483.74
+1974 FIFA World Cup,group stage,1974-06-18,19:30,Yugoslavia,Zaire,9,0,home team win,1,0,0,1974,241,1535.56,1473.85,1559.46,1449.95
+1974 FIFA World Cup,group stage,1974-06-18,19:30,Scotland,Brazil,0,0,draw,0,0,1,1974,242,1459.85,2354.74,1479.62,2334.97
+1974 FIFA World Cup,group stage,1974-06-18,16:00,Australia,Germany,0,3,away team win,0,1,0,1974,243,1478.0,1779.21,1471.1,1786.11
+1974 FIFA World Cup,group stage,1974-06-18,19:00,Chile,East Germany,1,1,draw,0,0,1,1974,244,1558.49,1522.0,1556.4,1524.09
+1974 FIFA World Cup,group stage,1974-06-19,19:30,Bulgaria,Uruguay,1,1,draw,0,0,1,1974,245,1422.21,1643.11,1433.45,1631.87
+1974 FIFA World Cup,group stage,1974-06-19,19:30,Netherlands,Sweden,0,0,draw,0,0,1,1974,246,1480.08,1633.87,1488.4,1625.55
+1974 FIFA World Cup,group stage,1974-06-19,19:30,Argentina,Italy,1,1,draw,0,0,1,1974,247,1483.74,1952.49,1501.22,1935.01
+1974 FIFA World Cup,group stage,1974-06-19,19:30,Haiti,Poland,0,7,away team win,0,1,0,1974,248,1496.92,1489.84,1469.37,1517.39
+1974 FIFA World Cup,group stage,1974-06-22,16:00,Australia,Chile,0,0,draw,0,0,1,1974,249,1471.1,1556.4,1475.91,1551.59
+1974 FIFA World Cup,group stage,1974-06-22,16:00,Scotland,Yugoslavia,1,1,draw,0,0,1,1974,250,1479.62,1559.46,1484.14,1554.94
+1974 FIFA World Cup,group stage,1974-06-22,16:00,Zaire,Brazil,0,3,away team win,0,1,0,1974,251,1449.95,2334.97,1449.67,2335.25
+1974 FIFA World Cup,group stage,1974-06-22,19:30,East Germany,Germany,1,0,home team win,1,0,0,1974,252,1524.09,1786.11,1558.48,1751.72
+1974 FIFA World Cup,group stage,1974-06-23,16:00,Bulgaria,Netherlands,1,4,away team win,0,1,0,1974,253,1433.45,1488.4,1414.06,1507.79
+1974 FIFA World Cup,group stage,1974-06-23,16:00,Sweden,Uruguay,3,0,home team win,1,0,0,1974,254,1625.55,1631.87,1648.97,1608.45
+1974 FIFA World Cup,group stage,1974-06-23,16:00,Argentina,Haiti,4,1,home team win,1,0,0,1974,255,1501.22,1469.37,1522.12,1448.47
+1974 FIFA World Cup,group stage,1974-06-23,16:00,Poland,Italy,2,1,home team win,1,0,0,1974,256,1517.39,1935.01,1555.91,1896.49
+1974 FIFA World Cup,second group stage,1974-06-26,19:30,Sweden,Poland,0,1,away team win,0,1,0,1974,257,1648.97,1555.91,1622.48,1582.4
+1974 FIFA World Cup,second group stage,1974-06-26,19:30,Netherlands,Argentina,4,0,home team win,1,0,0,1974,258,1507.79,1522.12,1532.78,1497.13
+1974 FIFA World Cup,second group stage,1974-06-26,16:00,Yugoslavia,Germany,0,2,away team win,0,1,0,1974,259,1554.94,1751.72,1544.22,1762.44
+1974 FIFA World Cup,second group stage,1974-06-26,19:30,Brazil,East Germany,1,0,home team win,1,0,0,1974,260,2335.25,1558.48,2335.72,1558.01
+1974 FIFA World Cup,second group stage,1974-06-30,16:00,Argentina,Brazil,1,2,away team win,0,1,0,1974,261,1497.13,2335.72,1496.8,2336.05
+1974 FIFA World Cup,second group stage,1974-06-30,16:00,East Germany,Netherlands,0,2,away team win,0,1,0,1974,262,1558.01,1532.78,1534.42,1556.37
+1974 FIFA World Cup,second group stage,1974-06-30,16:00,Poland,Yugoslavia,2,1,home team win,1,0,0,1974,263,1582.4,1544.22,1601.1,1525.52
+1974 FIFA World Cup,second group stage,1974-06-30,19:30,Germany,Sweden,4,2,home team win,1,0,0,1974,264,1762.44,1622.48,1776.03,1608.89
+1974 FIFA World Cup,second group stage,1974-07-03,16:30,Poland,Germany,0,1,away team win,0,1,0,1974,265,1601.1,1776.03,1589.86,1787.27
+1974 FIFA World Cup,second group stage,1974-07-03,19:30,Argentina,East Germany,1,1,draw,0,0,1,1974,266,1496.8,1534.42,1498.96,1532.26
+1974 FIFA World Cup,second group stage,1974-07-03,19:30,Netherlands,Brazil,2,0,home team win,1,0,0,1974,267,1556.37,2336.05,1599.88,2292.54
+1974 FIFA World Cup,second group stage,1974-07-03,19:30,Sweden,Yugoslavia,2,1,home team win,1,0,0,1974,268,1608.89,1525.52,1624.95,1509.46
+1974 FIFA World Cup,third-place match,1974-07-06,16:00,Brazil,Poland,0,1,away team win,0,1,0,1974,269,2292.54,1589.86,2251.26,1631.14
+1974 FIFA World Cup,final,1974-07-07,16:00,Netherlands,Germany,1,2,away team win,0,1,0,1974,270,1599.88,1787.27,1597.3,2014.85
+1978 FIFA World Cup,group stage,1978-06-01,15:00,Germany,Poland,0,0,draw,0,0,1,1978,271,2014.85,1631.14,1998.81,1647.18
+1978 FIFA World Cup,group stage,1978-06-02,13:45,Italy,France,2,1,home team win,1,0,0,1978,272,1896.49,1499.6,1900.37,1495.72
+1978 FIFA World Cup,group stage,1978-06-02,16:45,Tunisia,Mexico,3,1,home team win,1,0,0,1978,273,1500.0,1431.98,1517.75,1414.23
+1978 FIFA World Cup,group stage,1978-06-02,19:15,Argentina,Hungary,2,1,home team win,1,0,0,1978,274,1498.96,1560.44,1523.64,1535.76
+1978 FIFA World Cup,group stage,1978-06-03,13:45,Austria,Spain,2,1,home team win,1,0,0,1978,275,1502.0,1495.07,1522.58,1474.49
+1978 FIFA World Cup,group stage,1978-06-03,13:45,Brazil,Sweden,1,1,draw,0,0,1,1978,276,2251.26,1624.95,2232.32,1643.89
+1978 FIFA World Cup,group stage,1978-06-03,16:45,Netherlands,Iran,3,0,home team win,1,0,0,1978,277,1597.3,1500.0,1614.02,1483.28
+1978 FIFA World Cup,group stage,1978-06-03,16:45,Peru,Scotland,3,1,home team win,1,0,0,1978,278,1489.35,1484.14,1511.02,1462.47
+1978 FIFA World Cup,group stage,1978-06-06,13:45,Italy,Hungary,3,1,home team win,1,0,0,1978,279,1900.37,1535.76,1905.18,1530.95
+1978 FIFA World Cup,group stage,1978-06-06,16:45,Poland,Tunisia,1,0,home team win,1,0,0,1978,280,1647.18,1517.75,1660.7,1504.23
+1978 FIFA World Cup,group stage,1978-06-06,16:45,Germany,Mexico,6,0,home team win,1,0,0,1978,281,1998.81,1414.23,2000.55,1412.49
+1978 FIFA World Cup,group stage,1978-06-06,19:15,Argentina,France,2,1,home team win,1,0,0,1978,282,1523.64,1495.72,1542.96,1476.4
+1978 FIFA World Cup,group stage,1978-06-07,16:45,Scotland,Iran,1,1,draw,0,0,1,1978,283,1462.47,1483.28,1463.67,1482.08
+1978 FIFA World Cup,group stage,1978-06-07,16:45,Netherlands,Peru,0,0,draw,0,0,1,1978,284,1614.02,1511.02,1608.26,1516.78
+1978 FIFA World Cup,group stage,1978-06-07,13:45,Austria,Sweden,1,0,home team win,1,0,0,1978,285,1522.58,1643.89,1550.63,1615.84
+1978 FIFA World Cup,group stage,1978-06-07,13:45,Brazil,Spain,0,0,draw,0,0,1,1978,286,2232.32,1474.49,2212.82,1493.99
+1978 FIFA World Cup,group stage,1978-06-10,14:30,France,Hungary,3,1,home team win,1,0,0,1978,287,1476.4,1530.95,1501.83,1505.52
+1978 FIFA World Cup,group stage,1978-06-10,16:45,Poland,Mexico,3,1,home team win,1,0,0,1978,288,1660.7,1412.49,1669.2,1403.99
+1978 FIFA World Cup,group stage,1978-06-10,16:45,Germany,Tunisia,0,0,draw,0,0,1,1978,289,2000.55,1504.23,1982.72,1522.06
+1978 FIFA World Cup,group stage,1978-06-10,19:15,Argentina,Italy,0,1,away team win,0,1,0,1978,290,1542.96,1905.18,1538.32,1909.82
+1978 FIFA World Cup,group stage,1978-06-11,13:45,Brazil,Austria,1,0,home team win,1,0,0,1978,291,2212.82,1550.63,2213.73,1549.72
+1978 FIFA World Cup,group stage,1978-06-11,13:45,Spain,Sweden,1,0,home team win,1,0,0,1978,292,1493.99,1615.84,1522.07,1587.76
+1978 FIFA World Cup,group stage,1978-06-11,16:45,Peru,Iran,4,1,home team win,1,0,0,1978,293,1516.78,1482.08,1537.49,1461.37
+1978 FIFA World Cup,group stage,1978-06-11,16:45,Scotland,Netherlands,3,2,home team win,1,0,0,1978,294,1463.67,1608.26,1492.94,1578.99
+1978 FIFA World Cup,second group stage,1978-06-14,19:15,Argentina,Poland,2,0,home team win,1,0,0,1978,295,1538.32,1669.2,1568.24,1639.28
+1978 FIFA World Cup,second group stage,1978-06-14,13:45,Austria,Netherlands,1,5,away team win,0,1,0,1978,296,1549.72,1578.99,1527.74,1600.97
+1978 FIFA World Cup,second group stage,1978-06-14,13:45,Italy,Germany,0,0,draw,0,0,1,1978,297,1909.82,1982.72,1913.96,1978.58
+1978 FIFA World Cup,second group stage,1978-06-14,16:45,Brazil,Peru,3,0,home team win,1,0,0,1978,298,2213.73,1537.49,2214.65,1536.57
+1978 FIFA World Cup,second group stage,1978-06-18,16:45,Netherlands,Germany,2,2,draw,0,0,1,1978,299,1600.97,1978.58,1616.88,1962.67
+1978 FIFA World Cup,second group stage,1978-06-18,19:15,Argentina,Brazil,0,0,draw,0,0,1,1978,300,1568.24,2214.65,1587.29,2195.6
+1978 FIFA World Cup,second group stage,1978-06-18,13:45,Peru,Poland,0,1,away team win,0,1,0,1978,301,1536.57,1639.28,1521.6,1654.25
+1978 FIFA World Cup,second group stage,1978-06-18,16:45,Italy,Austria,1,0,home team win,1,0,0,1978,302,1913.96,1527.74,1918.06,1523.64
+1978 FIFA World Cup,second group stage,1978-06-21,13:45,Austria,Germany,3,2,home team win,1,0,0,1978,303,1523.64,1962.67,1562.53,1923.78
+1978 FIFA World Cup,second group stage,1978-06-21,13:45,Italy,Netherlands,1,2,away team win,0,1,0,1978,304,1918.06,1616.88,1882.36,1652.58
+1978 FIFA World Cup,second group stage,1978-06-21,16:45,Brazil,Poland,3,1,home team win,1,0,0,1978,305,2195.6,1654.25,2197.47,1652.38
+1978 FIFA World Cup,second group stage,1978-06-21,19:15,Argentina,Peru,6,0,home team win,1,0,0,1978,306,1587.29,1521.6,1608.43,1500.46
+1978 FIFA World Cup,third-place match,1978-06-24,15:00,Brazil,Italy,2,1,home team win,1,0,0,1978,307,2197.47,1882.36,2203.36,1876.47
+1978 FIFA World Cup,final,1978-06-25,15:00,Argentina,Netherlands,3,1,home team win,1,0,0,1978,308,1608.43,1652.58,1931.75,1554.26
+1982 FIFA World Cup,group stage,1982-06-13,20:00,Argentina,Belgium,0,1,away team win,0,1,0,1982,309,1931.75,1394.87,1891.58,1435.04
+1982 FIFA World Cup,group stage,1982-06-14,17:15,Italy,Poland,0,0,draw,0,0,1,1982,310,1876.47,1652.38,1865.1,1663.75
+1982 FIFA World Cup,group stage,1982-06-14,21:00,Brazil,Soviet Union,2,1,home team win,1,0,0,1982,311,2203.36,1554.65,2204.34,1553.67
+1982 FIFA World Cup,group stage,1982-06-15,17:15,Peru,Cameroon,0,0,draw,0,0,1,1982,312,1500.46,1500.0,1500.43,1500.03
+1982 FIFA World Cup,group stage,1982-06-15,21:00,Hungary,El Salvador,10,1,home team win,1,0,0,1982,313,1505.52,1427.19,1528.09,1404.62
+1982 FIFA World Cup,group stage,1982-06-15,21:00,Scotland,New Zealand,5,2,home team win,1,0,0,1982,314,1492.94,1500.0,1516.41,1476.53
+1982 FIFA World Cup,group stage,1982-06-16,21:00,Spain,Honduras,1,1,draw,0,0,1,1982,315,1522.07,1500.0,1520.8,1501.27
+1982 FIFA World Cup,group stage,1982-06-16,17:15,England,France,3,1,home team win,1,0,0,1982,316,1951.8,1501.83,1954.87,1498.76
+1982 FIFA World Cup,group stage,1982-06-16,17:15,Germany,Algeria,1,2,away team win,0,1,0,1982,317,1923.78,1500.0,1885.15,1538.63
+1982 FIFA World Cup,group stage,1982-06-17,17:15,Chile,Austria,0,1,away team win,0,1,0,1982,318,1551.59,1562.53,1531.25,1582.87
+1982 FIFA World Cup,group stage,1982-06-17,17:15,Czechoslovakia,Kuwait,1,1,draw,0,0,1,1982,319,1648.64,1500.0,1640.57,1508.07
+1982 FIFA World Cup,group stage,1982-06-17,21:00,Yugoslavia,Northern Ireland,0,0,draw,0,0,1,1982,320,1509.46,1482.47,1507.91,1484.02
+1982 FIFA World Cup,group stage,1982-06-18,17:15,Italy,Peru,1,1,draw,0,0,1,1982,321,1865.1,1500.43,1849.47,1516.06
+1982 FIFA World Cup,group stage,1982-06-18,21:00,Argentina,Hungary,4,1,home team win,1,0,0,1982,322,1891.58,1528.09,1896.63,1523.04
+1982 FIFA World Cup,group stage,1982-06-18,21:00,Brazil,Scotland,4,1,home team win,1,0,0,1982,323,2204.34,1516.41,2205.2,1515.55
+1982 FIFA World Cup,group stage,1982-06-19,17:15,Poland,Cameroon,0,0,draw,0,0,1,1982,324,1663.75,1500.03,1654.97,1508.81
+1982 FIFA World Cup,group stage,1982-06-19,21:00,Belgium,El Salvador,1,0,home team win,1,0,0,1982,325,1435.04,1404.62,1454.21,1385.45
+1982 FIFA World Cup,group stage,1982-06-19,21:00,Soviet Union,New Zealand,3,0,home team win,1,0,0,1982,326,1553.67,1476.53,1571.65,1458.55
+1982 FIFA World Cup,group stage,1982-06-20,21:00,Spain,Yugoslavia,2,1,home team win,1,0,0,1982,327,1520.8,1507.91,1541.02,1487.69
+1982 FIFA World Cup,group stage,1982-06-20,17:15,Germany,Chile,4,1,home team win,1,0,0,1982,328,1885.15,1531.25,1890.46,1525.94
+1982 FIFA World Cup,group stage,1982-06-20,17:15,England,Czechoslovakia,2,0,home team win,1,0,0,1982,329,1954.87,1640.57,1961.06,1634.38
+1982 FIFA World Cup,group stage,1982-06-21,21:00,Honduras,Northern Ireland,1,1,draw,0,0,1,1982,330,1501.27,1484.02,1500.28,1485.01
+1982 FIFA World Cup,group stage,1982-06-21,17:15,France,Kuwait,4,1,home team win,1,0,0,1982,331,1498.76,1508.07,1522.38,1484.45
+1982 FIFA World Cup,group stage,1982-06-21,17:15,Algeria,Austria,0,2,away team win,0,1,0,1982,332,1538.63,1582.87,1519.42,1602.08
+1982 FIFA World Cup,group stage,1982-06-22,17:15,Poland,Peru,5,1,home team win,1,0,0,1982,333,1654.97,1516.06,1669.86,1501.17
+1982 FIFA World Cup,group stage,1982-06-22,21:00,Belgium,Hungary,1,1,draw,0,0,1,1982,334,1454.21,1523.04,1458.12,1519.13
+1982 FIFA World Cup,group stage,1982-06-22,21:00,Soviet Union,Scotland,2,2,draw,0,0,1,1982,335,1571.65,1515.55,1568.45,1518.75
+1982 FIFA World Cup,group stage,1982-06-23,17:15,Italy,Cameroon,1,1,draw,0,0,1,1982,336,1849.47,1508.81,1834.4,1523.88
+1982 FIFA World Cup,group stage,1982-06-23,21:00,Argentina,El Salvador,2,0,home team win,1,0,0,1982,337,1896.63,1385.45,1898.83,1383.25
+1982 FIFA World Cup,group stage,1982-06-23,21:00,Brazil,New Zealand,4,0,home team win,1,0,0,1982,338,2205.2,1458.55,2205.84,1457.91
+1982 FIFA World Cup,group stage,1982-06-24,17:15,Algeria,Chile,3,2,home team win,1,0,0,1982,339,1519.42,1525.94,1540.81,1504.55
+1982 FIFA World Cup,group stage,1982-06-24,17:15,France,Czechoslovakia,1,1,draw,0,0,1,1982,340,1522.38,1634.38,1528.61,1628.15
+1982 FIFA World Cup,group stage,1982-06-24,21:00,Honduras,Yugoslavia,0,1,away team win,0,1,0,1982,341,1500.28,1487.69,1478.52,1509.45
+1982 FIFA World Cup,group stage,1982-06-25,17:15,Germany,Austria,1,0,home team win,1,0,0,1982,342,1890.46,1602.08,1897.17,1595.37
+1982 FIFA World Cup,group stage,1982-06-25,17:15,England,Kuwait,1,0,home team win,1,0,0,1982,343,1961.06,1484.45,1963.6,1481.91
+1982 FIFA World Cup,group stage,1982-06-25,21:00,Spain,Northern Ireland,0,1,away team win,0,1,0,1982,344,1541.02,1485.01,1516.66,1509.37
+1982 FIFA World Cup,second group stage,1982-06-28,21:00,Poland,Belgium,3,0,home team win,1,0,0,1982,345,1669.86,1458.12,1680.35,1447.63
+1982 FIFA World Cup,second group stage,1982-06-28,17:15,Austria,France,0,1,away team win,0,1,0,1982,346,1595.37,1528.61,1570.38,1553.6
+1982 FIFA World Cup,second group stage,1982-06-29,17:15,Italy,Argentina,2,1,home team win,1,0,0,1982,347,1834.4,1898.83,1859.25,1873.98
+1982 FIFA World Cup,second group stage,1982-06-29,21:00,Germany,England,0,0,draw,0,0,1,1982,348,1897.17,1963.6,1900.95,1959.82
+1982 FIFA World Cup,second group stage,1982-07-01,17:15,Austria,Northern Ireland,2,2,draw,0,0,1,1982,349,1570.38,1509.37,1566.9,1512.85
+1982 FIFA World Cup,second group stage,1982-07-01,21:00,Belgium,Soviet Union,0,1,away team win,0,1,0,1982,350,1447.63,1568.45,1433.65,1582.43
+1982 FIFA World Cup,second group stage,1982-07-02,17:15,Argentina,Brazil,1,3,away team win,0,1,0,1982,351,1873.98,2205.84,1868.31,2211.51
+1982 FIFA World Cup,second group stage,1982-07-02,21:00,Germany,Spain,2,1,home team win,1,0,0,1982,352,1900.95,1516.66,1905.09,1512.52
+1982 FIFA World Cup,second group stage,1982-07-04,17:15,France,Northern Ireland,4,1,home team win,1,0,0,1982,353,1553.6,1512.85,1573.91,1492.54
+1982 FIFA World Cup,second group stage,1982-07-04,21:00,Soviet Union,Poland,0,0,draw,0,0,1,1982,354,1582.43,1680.35,1587.92,1674.86
+1982 FIFA World Cup,second group stage,1982-07-05,17:15,Italy,Brazil,3,2,home team win,1,0,0,1982,355,1859.25,2211.51,1896.36,2174.4
+1982 FIFA World Cup,second group stage,1982-07-05,21:00,Spain,England,0,0,draw,0,0,1,1982,356,1512.52,1959.82,1529.69,1942.65
+1982 FIFA World Cup,semi-finals,1982-07-08,17:15,Poland,Italy,0,2,away team win,0,1,0,1982,357,1674.86,1896.36,1644.5,1926.72
+1982 FIFA World Cup,semi-finals,1982-07-08,21:00,Germany,France,3,3,home team win,1,0,0,1982,358,1905.09,1573.91,1922.56,1556.44
+1982 FIFA World Cup,third-place match,1982-07-10,20:00,Poland,France,3,2,home team win,1,0,0,1982,359,1644.5,1556.44,1660.29,1540.65
+1982 FIFA World Cup,final,1982-07-11,20:00,Italy,Germany,3,1,home team win,1,0,0,1982,360,1926.72,1922.56,2228.75,1845.53
+1986 FIFA World Cup,group stage,1986-05-31,12:00,Bulgaria,Italy,1,1,draw,0,0,1,1986,361,1414.06,2228.75,1433.7,2209.11
+1986 FIFA World Cup,group stage,1986-06-01,16:00,Canada,France,0,1,away team win,0,1,0,1986,362,1500.0,1540.65,1481.45,1559.2
+1986 FIFA World Cup,group stage,1986-06-01,12:00,Spain,Brazil,0,1,away team win,0,1,0,1986,363,1529.69,2174.4,1528.69,2175.4
+1986 FIFA World Cup,group stage,1986-06-02,12:00,Argentina,South Korea,3,1,home team win,1,0,0,1986,364,1868.31,1456.73,1872.07,1452.97
+1986 FIFA World Cup,group stage,1986-06-02,12:00,Soviet Union,Hungary,6,0,home team win,1,0,0,1986,365,1587.92,1519.13,1608.84,1498.21
+1986 FIFA World Cup,group stage,1986-06-02,16:00,Morocco,Poland,0,0,draw,0,0,1,1986,366,1462.56,1660.29,1472.85,1650.0
+1986 FIFA World Cup,group stage,1986-06-03,12:00,Belgium,Mexico,1,2,away team win,0,1,0,1986,367,1433.65,1403.99,1410.86,1426.78
+1986 FIFA World Cup,group stage,1986-06-03,12:00,Algeria,Northern Ireland,1,1,draw,0,0,1,1986,368,1540.81,1492.54,1538.05,1495.3
+1986 FIFA World Cup,group stage,1986-06-03,16:00,Portugal,England,1,0,home team win,1,0,0,1986,369,1573.64,1942.65,1611.16,1905.13
+1986 FIFA World Cup,group stage,1986-06-04,12:00,Paraguay,Iraq,1,0,home team win,1,0,0,1986,370,1494.01,1500.0,1515.37,1478.64
+1986 FIFA World Cup,group stage,1986-06-04,12:00,Uruguay,Germany,1,1,draw,0,0,1,1986,371,1608.45,1845.53,1620.31,1833.67
+1986 FIFA World Cup,group stage,1986-06-04,16:00,Scotland,Denmark,0,1,away team win,0,1,0,1986,372,1518.75,1500.0,1496.62,1522.13
+1986 FIFA World Cup,group stage,1986-06-05,12:00,Italy,Argentina,1,1,draw,0,0,1,1986,373,2209.11,1872.07,2194.14,1887.04
+1986 FIFA World Cup,group stage,1986-06-05,12:00,France,Soviet Union,1,1,draw,0,0,1,1986,374,1559.2,1608.84,1562.04,1606.0
+1986 FIFA World Cup,group stage,1986-06-05,16:00,South Korea,Bulgaria,1,1,draw,0,0,1,1986,375,1452.97,1433.7,1451.86,1434.81
+1986 FIFA World Cup,group stage,1986-06-06,16:00,England,Morocco,0,0,draw,0,0,1,1986,376,1905.13,1472.85,1888.2,1489.78
+1986 FIFA World Cup,group stage,1986-06-06,12:00,Hungary,Canada,2,0,home team win,1,0,0,1986,377,1498.21,1481.45,1519.15,1460.51
+1986 FIFA World Cup,group stage,1986-06-06,12:00,Brazil,Algeria,1,0,home team win,1,0,0,1986,378,2175.4,1538.05,2176.44,1537.01
+1986 FIFA World Cup,group stage,1986-06-07,12:00,Mexico,Paraguay,1,1,draw,0,0,1,1986,379,1426.78,1515.37,1431.77,1510.38
+1986 FIFA World Cup,group stage,1986-06-07,12:00,Northern Ireland,Spain,1,2,away team win,0,1,0,1986,380,1495.3,1528.69,1476.31,1547.68
+1986 FIFA World Cup,group stage,1986-06-07,16:00,Poland,Portugal,1,0,home team win,1,0,0,1986,381,1650.0,1611.16,1668.66,1592.5
+1986 FIFA World Cup,group stage,1986-06-08,12:00,Iraq,Belgium,1,2,away team win,0,1,0,1986,382,1478.64,1410.86,1453.59,1435.91
+1986 FIFA World Cup,group stage,1986-06-08,12:00,Germany,Scotland,2,1,home team win,1,0,0,1986,383,1833.67,1496.62,1838.95,1491.34
+1986 FIFA World Cup,group stage,1986-06-08,16:00,Denmark,Uruguay,6,1,home team win,1,0,0,1986,384,1522.13,1620.31,1554.01,1588.43
+1986 FIFA World Cup,group stage,1986-06-09,12:00,Hungary,France,0,3,away team win,0,1,0,1986,385,1519.15,1562.04,1498.97,1582.22
+1986 FIFA World Cup,group stage,1986-06-09,12:00,Soviet Union,Canada,2,0,home team win,1,0,0,1986,386,1606.0,1460.51,1619.29,1447.22
+1986 FIFA World Cup,group stage,1986-06-10,12:00,South Korea,Italy,2,3,away team win,0,1,0,1986,387,1451.86,2194.14,1451.28,2194.72
+1986 FIFA World Cup,group stage,1986-06-10,12:00,Argentina,Bulgaria,2,0,home team win,1,0,0,1986,388,1887.04,1434.81,1890.07,1431.78
+1986 FIFA World Cup,group stage,1986-06-11,16:00,Portugal,Morocco,1,3,away team win,0,1,0,1986,389,1592.5,1489.78,1564.18,1518.1
+1986 FIFA World Cup,group stage,1986-06-11,16:00,England,Poland,3,0,home team win,1,0,0,1986,390,1888.2,1668.66,1898.33,1658.53
+1986 FIFA World Cup,group stage,1986-06-11,12:00,Iraq,Mexico,0,1,away team win,0,1,0,1986,391,1453.59,1431.77,1431.27,1454.09
+1986 FIFA World Cup,group stage,1986-06-11,12:00,Paraguay,Belgium,2,2,draw,0,0,1,1986,392,1510.38,1435.91,1506.16,1440.13
+1986 FIFA World Cup,group stage,1986-06-12,12:00,Algeria,Spain,0,3,away team win,0,1,0,1986,393,1537.01,1547.68,1514.72,1569.97
+1986 FIFA World Cup,group stage,1986-06-12,12:00,Northern Ireland,Brazil,0,3,away team win,0,1,0,1986,394,1476.31,2176.44,1475.51,2177.24
+1986 FIFA World Cup,group stage,1986-06-13,12:00,Denmark,Germany,2,0,home team win,1,0,0,1986,395,1554.01,1838.95,1590.86,1802.1
+1986 FIFA World Cup,group stage,1986-06-13,12:00,Scotland,Uruguay,0,0,draw,0,0,1,1986,396,1491.34,1588.43,1496.79,1582.98
+1986 FIFA World Cup,round of 16,1986-06-15,12:00,Mexico,Bulgaria,2,0,home team win,1,0,0,1986,397,1454.09,1431.78,1484.04,1401.83
+1986 FIFA World Cup,round of 16,1986-06-15,16:00,Soviet Union,Belgium,3,4,away team win,0,1,0,1986,398,1619.29,1440.13,1573.59,1485.83
+1986 FIFA World Cup,round of 16,1986-06-16,12:00,Brazil,Poland,4,0,home team win,1,0,0,1986,399,2177.24,1658.53,2180.51,1655.26
+1986 FIFA World Cup,round of 16,1986-06-16,16:00,Argentina,Uruguay,1,0,home team win,1,0,0,1986,400,1890.07,1582.98,1899.11,1573.94
+1986 FIFA World Cup,round of 16,1986-06-17,12:00,Italy,France,0,2,away team win,0,1,0,1986,401,2194.72,1582.22,2132.55,1644.39
+1986 FIFA World Cup,round of 16,1986-06-17,16:00,Morocco,Germany,0,1,away team win,0,1,0,1986,402,1518.1,1802.1,1507.98,1812.22
+1986 FIFA World Cup,round of 16,1986-06-18,16:00,Denmark,Spain,1,5,away team win,0,1,0,1986,403,1590.86,1569.97,1554.82,1606.01
+1986 FIFA World Cup,round of 16,1986-06-18,12:00,England,Paraguay,3,0,home team win,1,0,0,1986,404,1898.33,1506.16,1904.58,1499.91
+1986 FIFA World Cup,quarter-finals,1986-06-21,16:00,Germany,Mexico,0,0,home team win,1,0,0,1986,405,1812.22,1484.04,1824.04,1472.22
+1986 FIFA World Cup,quarter-finals,1986-06-21,12:00,Brazil,France,1,1,away team win,0,1,0,1986,406,2180.51,1644.39,2094.44,1730.46
+1986 FIFA World Cup,quarter-finals,1986-06-22,12:00,Argentina,England,2,1,home team win,1,0,0,1986,407,1899.11,1904.58,1945.83,1857.86
+1986 FIFA World Cup,quarter-finals,1986-06-22,16:00,Spain,Belgium,1,1,away team win,0,1,0,1986,408,1606.01,1485.83,1546.04,1545.8
+1986 FIFA World Cup,semi-finals,1986-06-25,12:00,France,Germany,0,2,away team win,0,1,0,1986,409,1730.46,1824.04,1679.24,1875.26
+1986 FIFA World Cup,semi-finals,1986-06-25,16:00,Argentina,Belgium,2,0,home team win,1,0,0,1986,410,1945.83,1545.8,1958.46,1533.17
+1986 FIFA World Cup,third-place match,1986-06-28,12:00,Belgium,France,2,4,away team win,0,1,0,1986,411,1533.17,1679.24,1519.91,1692.5
+1986 FIFA World Cup,final,1986-06-29,12:00,Argentina,Germany,3,2,home team win,1,0,0,1986,412,1958.46,1875.26,2225.41,1833.31
+1990 FIFA World Cup,group stage,1990-06-08,18:00,Argentina,Cameroon,0,1,away team win,0,1,0,1990,413,2225.41,1523.88,2184.14,1565.15
+1990 FIFA World Cup,group stage,1990-06-09,17:00,Soviet Union,Romania,0,2,away team win,0,1,0,1990,414,1573.59,1472.94,1545.39,1501.14
+1990 FIFA World Cup,group stage,1990-06-09,17:00,United Arab Emirates,Colombia,0,2,away team win,0,1,0,1990,415,1500.0,1470.22,1476.12,1494.1
+1990 FIFA World Cup,group stage,1990-06-09,21:00,Italy,Austria,1,0,home team win,1,0,0,1990,416,2132.55,1566.9,2134.11,1565.34
+1990 FIFA World Cup,group stage,1990-06-10,21:00,Brazil,Sweden,2,1,home team win,1,0,0,1990,417,2094.44,1587.76,2096.6,1585.6
+1990 FIFA World Cup,group stage,1990-06-10,21:00,Germany,Yugoslavia,4,1,home team win,1,0,0,1990,418,1833.31,1509.45,1839.48,1503.28
+1990 FIFA World Cup,group stage,1990-06-10,17:00,United States,Czechoslovakia,1,5,away team win,0,1,0,1990,419,1428.65,1628.15,1417.09,1639.71
+1990 FIFA World Cup,group stage,1990-06-11,21:00,England,Republic of Ireland,1,1,draw,0,0,1,1990,420,1857.86,1500.0,1842.38,1515.48
+1990 FIFA World Cup,group stage,1990-06-11,17:00,Costa Rica,Scotland,1,0,home team win,1,0,0,1990,421,1500.0,1496.79,1520.81,1475.98
+1990 FIFA World Cup,group stage,1990-06-12,17:00,Belgium,South Korea,2,0,home team win,1,0,0,1990,422,1519.91,1451.28,1537.62,1433.57
+1990 FIFA World Cup,group stage,1990-06-12,21:00,Netherlands,Egypt,1,1,draw,0,0,1,1990,423,1554.26,1468.0,1549.39,1472.87
+1990 FIFA World Cup,group stage,1990-06-13,17:00,Uruguay,Spain,0,0,draw,0,0,1,1990,424,1573.94,1546.04,1572.34,1547.64
+1990 FIFA World Cup,group stage,1990-06-13,21:00,Argentina,Soviet Union,2,0,home team win,1,0,0,1990,425,2184.14,1545.39,2185.23,1544.3
+1990 FIFA World Cup,group stage,1990-06-14,17:00,Cameroon,Romania,2,1,home team win,1,0,0,1990,426,1565.15,1501.14,1582.32,1483.97
+1990 FIFA World Cup,group stage,1990-06-14,17:00,Yugoslavia,Colombia,1,0,home team win,1,0,0,1990,427,1503.28,1494.1,1523.73,1473.65
+1990 FIFA World Cup,group stage,1990-06-14,21:00,Italy,United States,1,0,home team win,1,0,0,1990,428,2134.11,1417.09,2134.78,1416.42
+1990 FIFA World Cup,group stage,1990-06-15,17:00,Austria,Czechoslovakia,0,1,away team win,0,1,0,1990,429,1565.34,1639.71,1548.77,1656.28
+1990 FIFA World Cup,group stage,1990-06-15,21:00,Germany,United Arab Emirates,5,1,home team win,1,0,0,1990,430,1839.48,1476.12,1844.76,1470.84
+1990 FIFA World Cup,group stage,1990-06-16,17:00,Brazil,Costa Rica,1,0,home team win,1,0,0,1990,431,2096.6,1520.81,2098.07,1519.34
+1990 FIFA World Cup,group stage,1990-06-16,21:00,Sweden,Scotland,1,2,away team win,0,1,0,1990,432,1585.6,1475.98,1558.19,1503.39
+1990 FIFA World Cup,group stage,1990-06-16,21:00,England,Netherlands,0,0,draw,0,0,1,1990,433,1842.38,1549.39,1828.63,1563.14
+1990 FIFA World Cup,group stage,1990-06-17,21:00,South Korea,Spain,1,3,away team win,0,1,0,1990,434,1433.57,1547.64,1418.54,1562.67
+1990 FIFA World Cup,group stage,1990-06-17,21:00,Belgium,Uruguay,3,1,home team win,1,0,0,1990,435,1537.62,1572.34,1561.81,1548.15
+1990 FIFA World Cup,group stage,1990-06-17,17:00,Republic of Ireland,Egypt,0,0,draw,0,0,1,1990,436,1515.48,1472.87,1513.04,1475.31
+1990 FIFA World Cup,group stage,1990-06-18,21:00,Argentina,Romania,1,1,draw,0,0,1,1990,437,2185.23,1483.97,2165.92,1503.28
+1990 FIFA World Cup,group stage,1990-06-18,21:00,Cameroon,Soviet Union,0,4,away team win,0,1,0,1990,438,1582.32,1544.3,1555.7,1570.92
+1990 FIFA World Cup,group stage,1990-06-19,17:00,Germany,Colombia,1,1,draw,0,0,1,1990,439,1844.76,1473.65,1828.98,1489.43
+1990 FIFA World Cup,group stage,1990-06-19,17:00,Yugoslavia,United Arab Emirates,4,1,home team win,1,0,0,1990,440,1523.73,1470.84,1543.26,1451.31
+1990 FIFA World Cup,group stage,1990-06-19,21:00,Austria,United States,2,1,home team win,1,0,0,1990,441,1548.77,1416.42,1562.14,1403.05
+1990 FIFA World Cup,group stage,1990-06-19,21:00,Italy,Czechoslovakia,2,0,home team win,1,0,0,1990,442,2134.78,1656.28,2137.41,1653.65
+1990 FIFA World Cup,group stage,1990-06-20,21:00,Brazil,Scotland,1,0,home team win,1,0,0,1990,443,2098.07,1503.39,2099.4,1502.06
+1990 FIFA World Cup,group stage,1990-06-20,21:00,Sweden,Costa Rica,1,2,away team win,0,1,0,1990,444,1558.19,1519.34,1534.85,1542.68
+1990 FIFA World Cup,group stage,1990-06-21,17:00,Belgium,Spain,1,2,away team win,0,1,0,1990,445,1561.81,1562.67,1540.86,1583.62
+1990 FIFA World Cup,group stage,1990-06-21,17:00,South Korea,Uruguay,0,1,away team win,0,1,0,1990,446,1418.54,1548.15,1405.03,1561.66
+1990 FIFA World Cup,group stage,1990-06-21,21:00,England,Egypt,1,0,home team win,1,0,0,1990,447,1828.63,1475.31,1833.49,1470.45
+1990 FIFA World Cup,group stage,1990-06-21,21:00,Republic of Ireland,Netherlands,1,1,draw,0,0,1,1990,448,1513.04,1563.14,1515.9,1560.28
+1990 FIFA World Cup,round of 16,1990-06-23,21:00,Czechoslovakia,Costa Rica,4,1,home team win,1,0,0,1990,449,1653.65,1542.68,1676.45,1519.88
+1990 FIFA World Cup,round of 16,1990-06-23,17:00,Cameroon,Colombia,2,1,home team win,1,0,0,1990,450,1555.7,1489.43,1580.86,1464.27
+1990 FIFA World Cup,round of 16,1990-06-24,17:00,Brazil,Argentina,0,1,away team win,0,1,0,1990,451,2099.4,2165.92,2074.26,2191.06
+1990 FIFA World Cup,round of 16,1990-06-24,21:00,Germany,Netherlands,2,1,home team win,1,0,0,1990,452,1828.98,1560.28,1839.86,1549.4
+1990 FIFA World Cup,round of 16,1990-06-25,17:00,Republic of Ireland,Romania,0,0,home team win,1,0,0,1990,453,1515.9,1503.28,1544.81,1474.37
+1990 FIFA World Cup,round of 16,1990-06-25,21:00,Italy,Uruguay,2,0,home team win,1,0,0,1990,454,2137.41,1561.66,2139.66,1559.41
+1990 FIFA World Cup,round of 16,1990-06-26,17:00,Spain,Yugoslavia,1,2,away team win,0,1,0,1990,455,1583.62,1543.26,1549.03,1577.85
+1990 FIFA World Cup,round of 16,1990-06-26,21:00,England,Belgium,1,0,home team win,1,0,0,1990,456,1833.49,1540.86,1843.19,1531.16
+1990 FIFA World Cup,quarter-finals,1990-06-30,17:00,Argentina,Yugoslavia,0,0,home team win,1,0,0,1990,457,2191.06,1577.85,2193.62,1575.29
+1990 FIFA World Cup,quarter-finals,1990-06-30,21:00,Republic of Ireland,Italy,0,1,away team win,0,1,0,1990,458,1544.81,2139.66,1541.91,2142.56
+1990 FIFA World Cup,quarter-finals,1990-07-01,17:00,Czechoslovakia,Germany,0,1,away team win,0,1,0,1990,459,1676.45,1839.86,1650.62,1865.69
+1990 FIFA World Cup,quarter-finals,1990-07-01,21:00,Cameroon,England,2,3,away team win,0,1,0,1990,460,1580.86,1843.19,1564.21,1859.84
+1990 FIFA World Cup,semi-finals,1990-07-03,20:00,Argentina,Italy,1,1,home team win,1,0,0,1990,461,2193.62,2142.56,2251.27,2084.91
+1990 FIFA World Cup,semi-finals,1990-07-04,20:00,Germany,England,1,1,home team win,1,0,0,1990,462,1865.69,1859.84,1932.05,1793.48
+1990 FIFA World Cup,third-place match,1990-07-07,20:00,Italy,England,2,1,home team win,1,0,0,1990,463,2084.91,1793.48,2091.52,1786.87
+1990 FIFA World Cup,final,1990-07-08,20:00,Germany,Argentina,1,0,home team win,1,0,0,1990,464,1932.05,2251.27,2345.81,2062.51
+1994 FIFA World Cup,group stage,1994-06-17,14:00,Germany,Bolivia,1,0,home team win,1,0,0,1994,465,2345.81,1450.12,2346.05,1449.88
+1994 FIFA World Cup,group stage,1994-06-17,18:30,Spain,South Korea,2,2,draw,0,0,1,1994,466,1549.03,1405.03,1541.18,1412.88
+1994 FIFA World Cup,group stage,1994-06-18,11:30,United States,Switzerland,1,1,draw,0,0,1,1994,467,1403.05,1420.87,1404.07,1419.85
+1994 FIFA World Cup,group stage,1994-06-18,16:00,Italy,Republic of Ireland,0,1,away team win,0,1,0,1994,468,2091.52,1541.91,2051.22,1582.21
+1994 FIFA World Cup,group stage,1994-06-18,16:30,Colombia,Romania,1,3,away team win,0,1,0,1994,469,1464.27,1474.37,1442.91,1495.73
+1994 FIFA World Cup,group stage,1994-06-19,12:30,Belgium,Morocco,1,0,home team win,1,0,0,1994,470,1531.16,1507.98,1550.76,1488.38
+1994 FIFA World Cup,group stage,1994-06-19,16:00,Norway,Mexico,1,0,home team win,1,0,0,1994,471,1495.66,1472.22,1515.25,1452.63
+1994 FIFA World Cup,group stage,1994-06-19,16:30,Cameroon,Sweden,2,2,draw,0,0,1,1994,472,1564.21,1534.85,1562.52,1536.54
+1994 FIFA World Cup,group stage,1994-06-20,13:00,Brazil,Russia,2,0,home team win,1,0,0,1994,473,2074.26,1500.0,2075.82,1498.44
+1994 FIFA World Cup,group stage,1994-06-20,19:30,Netherlands,Saudi Arabia,2,1,home team win,1,0,0,1994,474,1549.4,1500.0,1567.43,1481.97
+1994 FIFA World Cup,group stage,1994-06-21,12:30,Argentina,Greece,4,0,home team win,1,0,0,1994,475,2062.51,1500.0,2064.32,1498.19
+1994 FIFA World Cup,group stage,1994-06-21,15:00,Germany,Spain,1,1,draw,0,0,1,1994,476,2346.05,1541.18,2326.44,1560.79
+1994 FIFA World Cup,group stage,1994-06-21,18:30,Nigeria,Bulgaria,3,0,home team win,1,0,0,1994,477,1500.0,1401.83,1516.67,1385.16
+1994 FIFA World Cup,group stage,1994-06-22,16:00,Romania,Switzerland,1,4,away team win,0,1,0,1994,478,1495.73,1419.85,1467.79,1447.79
+1994 FIFA World Cup,group stage,1994-06-22,16:30,United States,Colombia,2,1,home team win,1,0,0,1994,479,1404.07,1442.91,1427.41,1419.57
+1994 FIFA World Cup,group stage,1994-06-23,19:30,South Korea,Bolivia,0,0,draw,0,0,1,1994,480,1412.88,1449.88,1415.0,1447.76
+1994 FIFA World Cup,group stage,1994-06-23,16:00,Italy,Norway,1,0,home team win,1,0,0,1994,481,2051.22,1515.25,2053.06,1513.41
+1994 FIFA World Cup,group stage,1994-06-24,19:30,Sweden,Russia,3,1,home team win,1,0,0,1994,482,1536.54,1498.44,1556.14,1478.84
+1994 FIFA World Cup,group stage,1994-06-24,12:30,Mexico,Republic of Ireland,2,1,home team win,1,0,0,1994,483,1452.63,1582.21,1481.12,1553.72
+1994 FIFA World Cup,group stage,1994-06-24,13:00,Brazil,Cameroon,3,0,home team win,1,0,0,1994,484,2075.82,1562.52,2078.1,1560.24
+1994 FIFA World Cup,group stage,1994-06-25,12:30,Belgium,Netherlands,1,0,home team win,1,0,0,1994,485,1550.76,1567.43,1572.77,1545.42
+1994 FIFA World Cup,group stage,1994-06-25,12:30,Saudi Arabia,Morocco,2,1,home team win,1,0,0,1994,486,1481.97,1488.38,1503.36,1466.99
+1994 FIFA World Cup,group stage,1994-06-25,16:00,Argentina,Nigeria,2,1,home team win,1,0,0,1994,487,2064.32,1516.67,2066.04,1514.95
+1994 FIFA World Cup,group stage,1994-06-26,11:30,Bulgaria,Greece,4,0,home team win,1,0,0,1994,488,1385.16,1498.19,1416.7,1466.65
+1994 FIFA World Cup,group stage,1994-06-26,13:00,Switzerland,Colombia,0,2,away team win,0,1,0,1994,489,1447.79,1419.57,1424.01,1443.35
+1994 FIFA World Cup,group stage,1994-06-26,13:00,United States,Romania,0,1,away team win,0,1,0,1994,490,1427.41,1467.79,1408.84,1486.36
+1994 FIFA World Cup,group stage,1994-06-27,15:00,Bolivia,Spain,1,3,away team win,0,1,0,1994,491,1447.76,1560.79,1432.67,1575.88
+1994 FIFA World Cup,group stage,1994-06-27,15:00,Germany,South Korea,3,2,home team win,1,0,0,1994,492,2326.44,1415.0,2326.66,1414.78
+1994 FIFA World Cup,group stage,1994-06-28,12:30,Italy,Mexico,1,1,draw,0,0,1,1994,493,2053.06,1481.12,2034.49,1499.69
+1994 FIFA World Cup,group stage,1994-06-28,12:30,Republic of Ireland,Norway,0,0,draw,0,0,1,1994,494,1553.72,1513.41,1551.41,1515.72
+1994 FIFA World Cup,group stage,1994-06-28,13:00,Russia,Cameroon,6,1,home team win,1,0,0,1994,495,1478.84,1560.24,1509.59,1529.49
+1994 FIFA World Cup,group stage,1994-06-28,16:00,Brazil,Sweden,1,1,draw,0,0,1,1994,496,2078.1,1556.14,2059.99,1574.25
+1994 FIFA World Cup,group stage,1994-06-29,12:30,Morocco,Netherlands,1,2,away team win,0,1,0,1994,497,1466.99,1545.42,1450.65,1561.76
+1994 FIFA World Cup,group stage,1994-06-29,12:30,Belgium,Saudi Arabia,0,1,away team win,0,1,0,1994,498,1572.77,1503.36,1547.63,1528.5
+1994 FIFA World Cup,group stage,1994-06-30,18:30,Argentina,Bulgaria,0,2,away team win,0,1,0,1994,499,2066.04,1416.7,2023.06,1459.68
+1994 FIFA World Cup,group stage,1994-06-30,19:30,Greece,Nigeria,0,2,away team win,0,1,0,1994,500,1466.65,1514.95,1447.69,1533.91
+1994 FIFA World Cup,round of 16,1994-07-02,12:00,Germany,Belgium,3,2,home team win,1,0,0,1994,501,2326.66,1547.63,2327.35,1546.94
+1994 FIFA World Cup,round of 16,1994-07-02,16:30,Spain,Switzerland,3,0,home team win,1,0,0,1994,502,1575.88,1424.01,1595.31,1404.58
+1994 FIFA World Cup,round of 16,1994-07-03,12:00,Saudi Arabia,Sweden,1,3,away team win,0,1,0,1994,503,1528.5,1574.25,1500.69,1602.06
+1994 FIFA World Cup,round of 16,1994-07-03,13:30,Romania,Argentina,3,2,home team win,1,0,0,1994,504,1486.36,2023.06,1545.66,1963.76
+1994 FIFA World Cup,round of 16,1994-07-04,12:00,Netherlands,Republic of Ireland,2,0,home team win,1,0,0,1994,505,1561.76,1551.41,1592.81,1520.36
+1994 FIFA World Cup,round of 16,1994-07-04,12:30,Brazil,United States,1,0,home team win,1,0,0,1994,506,2059.99,1408.84,2061.42,1407.41
+1994 FIFA World Cup,round of 16,1994-07-05,13:00,Nigeria,Italy,1,2,away team win,0,1,0,1994,507,1533.91,2034.49,1530.62,2037.78
+1994 FIFA World Cup,round of 16,1994-07-05,16:30,Mexico,Bulgaria,1,1,away team win,0,1,0,1994,508,1499.69,1459.68,1466.25,1493.12
+1994 FIFA World Cup,quarter-finals,1994-07-09,12:00,Italy,Spain,2,1,home team win,1,0,0,1994,509,2037.78,1595.31,2044.46,1588.63
+1994 FIFA World Cup,quarter-finals,1994-07-09,14:30,Netherlands,Brazil,2,3,away team win,0,1,0,1994,510,1592.81,2061.42,1587.0,2067.23
+1994 FIFA World Cup,quarter-finals,1994-07-10,12:00,Bulgaria,Germany,2,1,home team win,1,0,0,1994,511,1493.12,2327.35,1584.37,2236.1
+1994 FIFA World Cup,quarter-finals,1994-07-10,12:30,Romania,Sweden,2,2,away team win,0,1,0,1994,512,1545.66,1602.06,1507.9,1639.82
+1994 FIFA World Cup,semi-finals,1994-07-13,16:30,Sweden,Brazil,0,1,away team win,0,1,0,1994,513,1639.82,2067.23,1629.04,2078.01
+1994 FIFA World Cup,semi-finals,1994-07-13,16:00,Bulgaria,Italy,1,2,away team win,0,1,0,1994,514,1584.37,2044.46,1575.32,2053.51
+1994 FIFA World Cup,third-place match,1994-07-16,12:30,Sweden,Bulgaria,4,0,home team win,1,0,0,1994,515,1629.04,1575.32,1649.36,1555.0
+1994 FIFA World Cup,final,1994-07-17,12:30,Brazil,Italy,0,0,home team win,1,0,0,1994,516,2078.01,2053.51,2369.19,1987.33
+1998 FIFA World Cup,group stage,1998-06-10,17:30,Brazil,Scotland,2,1,home team win,1,0,0,1998,517,2369.19,1502.06,2369.47,1501.78
+1998 FIFA World Cup,group stage,1998-06-10,21:00,Morocco,Norway,2,2,draw,0,0,1,1998,518,1450.65,1515.72,1454.35,1512.02
+1998 FIFA World Cup,group stage,1998-06-11,17:30,Italy,Chile,2,2,draw,0,0,1,1998,519,1987.33,1504.55,1969.67,1522.21
+1998 FIFA World Cup,group stage,1998-06-11,21:00,Cameroon,Austria,1,1,draw,0,0,1,1998,520,1529.49,1562.14,1531.36,1560.27
+1998 FIFA World Cup,group stage,1998-06-12,14:30,Paraguay,Bulgaria,0,0,draw,0,0,1,1998,521,1499.91,1555.0,1503.05,1551.86
+1998 FIFA World Cup,group stage,1998-06-12,17:30,Saudi Arabia,Denmark,0,1,away team win,0,1,0,1998,522,1500.69,1554.82,1482.94,1572.57
+1998 FIFA World Cup,group stage,1998-06-12,21:00,France,South Africa,3,0,home team win,1,0,0,1998,523,1692.5,1500.0,1703.92,1488.58
+1998 FIFA World Cup,group stage,1998-06-13,14:30,Spain,Nigeria,2,3,away team win,0,1,0,1998,524,1588.63,1530.62,1564.16,1555.09
+1998 FIFA World Cup,group stage,1998-06-13,17:30,South Korea,Mexico,1,3,away team win,0,1,0,1998,525,1414.78,1466.25,1396.02,1485.01
+1998 FIFA World Cup,group stage,1998-06-13,21:00,Netherlands,Belgium,0,0,draw,0,0,1,1998,526,1587.0,1546.94,1584.7,1549.24
+1998 FIFA World Cup,group stage,1998-06-14,21:00,Jamaica,Croatia,1,3,away team win,0,1,0,1998,527,1500.0,1500.0,1478.0,1522.0
+1998 FIFA World Cup,group stage,1998-06-14,14:30,Argentina,Japan,1,0,home team win,1,0,0,1998,528,1963.76,1500.0,1966.48,1497.28
+1998 FIFA World Cup,group stage,1998-06-14,17:30,Yugoslavia,Iran,1,0,home team win,1,0,0,1998,529,1575.29,1461.37,1589.64,1447.02
+1998 FIFA World Cup,group stage,1998-06-15,14:30,England,Tunisia,2,0,home team win,1,0,0,1998,530,1786.87,1522.06,1794.74,1514.19
+1998 FIFA World Cup,group stage,1998-06-15,17:30,Romania,Colombia,1,0,home team win,1,0,0,1998,531,1507.9,1443.35,1525.04,1426.21
+1998 FIFA World Cup,group stage,1998-06-15,21:00,Germany,United States,2,0,home team win,1,0,0,1998,532,2236.1,1407.41,2236.47,1407.04
+1998 FIFA World Cup,group stage,1998-06-16,17:30,Scotland,Norway,1,1,draw,0,0,1,1998,533,1501.78,1512.02,1502.37,1511.43
+1998 FIFA World Cup,group stage,1998-06-16,21:00,Brazil,Morocco,3,0,home team win,1,0,0,1998,534,2369.47,1454.35,2369.71,1454.11
+1998 FIFA World Cup,group stage,1998-06-17,17:30,Chile,Austria,1,1,draw,0,0,1,1998,535,1522.21,1560.27,1524.39,1558.09
+1998 FIFA World Cup,group stage,1998-06-17,21:00,Italy,Cameroon,3,0,home team win,1,0,0,1998,536,1969.67,1531.36,1973.09,1527.94
+1998 FIFA World Cup,group stage,1998-06-18,17:30,South Africa,Denmark,1,1,draw,0,0,1,1998,537,1488.58,1572.57,1493.32,1567.83
+1998 FIFA World Cup,group stage,1998-06-18,21:00,France,Saudi Arabia,4,0,home team win,1,0,0,1998,538,1703.92,1482.94,1714.43,1472.43
+1998 FIFA World Cup,group stage,1998-06-19,21:00,Spain,Paraguay,0,0,draw,0,0,1,1998,539,1564.16,1503.05,1560.68,1506.53
+1998 FIFA World Cup,group stage,1998-06-19,17:30,Nigeria,Bulgaria,1,0,home team win,1,0,0,1998,540,1555.09,1551.86,1575.89,1531.06
+1998 FIFA World Cup,group stage,1998-06-20,17:30,Belgium,Mexico,2,2,draw,0,0,1,1998,541,1549.24,1485.01,1545.58,1488.67
+1998 FIFA World Cup,group stage,1998-06-20,21:00,Netherlands,South Korea,5,0,home team win,1,0,0,1998,542,1584.7,1396.02,1597.32,1383.4
+1998 FIFA World Cup,group stage,1998-06-20,14:30,Japan,Croatia,0,1,away team win,0,1,0,1998,543,1497.28,1522.0,1477.77,1541.51
+1998 FIFA World Cup,group stage,1998-06-21,21:00,United States,Iran,1,2,away team win,0,1,0,1998,544,1407.04,1447.02,1388.45,1465.61
+1998 FIFA World Cup,group stage,1998-06-21,14:30,Germany,Yugoslavia,2,2,draw,0,0,1,1998,545,2236.47,1589.64,2217.41,1608.7
+1998 FIFA World Cup,group stage,1998-06-21,17:30,Argentina,Jamaica,5,0,home team win,1,0,0,1998,546,1966.48,1478.0,1969.31,1475.17
+1998 FIFA World Cup,group stage,1998-06-22,17:30,Colombia,Tunisia,1,0,home team win,1,0,0,1998,547,1426.21,1514.19,1452.42,1487.98
+1998 FIFA World Cup,group stage,1998-06-22,21:00,Romania,England,2,1,home team win,1,0,0,1998,548,1525.04,1794.74,1559.7,1760.08
+1998 FIFA World Cup,group stage,1998-06-23,16:00,Chile,Cameroon,1,1,draw,0,0,1,1998,549,1524.39,1527.94,1524.59,1527.74
+1998 FIFA World Cup,group stage,1998-06-23,16:00,Italy,Austria,2,1,home team win,1,0,0,1998,550,1973.09,1558.09,1976.62,1554.56
+1998 FIFA World Cup,group stage,1998-06-23,21:00,Brazil,Norway,1,2,away team win,0,1,0,1998,551,2369.71,1511.43,2328.01,1553.13
+1998 FIFA World Cup,group stage,1998-06-23,21:00,Scotland,Morocco,0,3,away team win,0,1,0,1998,552,1502.37,1454.11,1476.2,1480.28
+1998 FIFA World Cup,group stage,1998-06-24,16:00,France,Denmark,2,1,home team win,1,0,0,1998,553,1714.43,1567.83,1727.06,1555.2
+1998 FIFA World Cup,group stage,1998-06-24,16:00,South Africa,Saudi Arabia,2,2,draw,0,0,1,1998,554,1493.32,1472.43,1492.12,1473.63
+1998 FIFA World Cup,group stage,1998-06-24,21:00,Nigeria,Paraguay,1,3,away team win,0,1,0,1998,555,1575.89,1506.53,1549.56,1532.86
+1998 FIFA World Cup,group stage,1998-06-24,21:00,Spain,Bulgaria,6,1,home team win,1,0,0,1998,556,1560.68,1531.06,1583.55,1508.19
+1998 FIFA World Cup,group stage,1998-06-25,21:00,Germany,Iran,2,0,home team win,1,0,0,1998,557,2217.41,1465.61,2217.98,1465.04
+1998 FIFA World Cup,group stage,1998-06-25,21:00,United States,Yugoslavia,0,1,away team win,0,1,0,1998,558,1388.45,1608.7,1379.23,1617.92
+1998 FIFA World Cup,group stage,1998-06-25,16:00,Belgium,South Korea,1,1,draw,0,0,1,1998,559,1545.58,1383.4,1536.87,1392.11
+1998 FIFA World Cup,group stage,1998-06-25,16:00,Netherlands,Mexico,2,2,draw,0,0,1,1998,560,1597.32,1488.67,1591.26,1494.73
+1998 FIFA World Cup,group stage,1998-06-26,16:00,Argentina,Croatia,1,0,home team win,1,0,0,1998,561,1969.31,1541.51,1972.61,1538.21
+1998 FIFA World Cup,group stage,1998-06-26,16:00,Japan,Jamaica,1,2,away team win,0,1,0,1998,562,1477.77,1475.17,1456.61,1496.33
+1998 FIFA World Cup,group stage,1998-06-26,21:00,Colombia,England,0,2,away team win,0,1,0,1998,563,1452.42,1760.08,1446.02,1766.48
+1998 FIFA World Cup,group stage,1998-06-26,21:00,Romania,Tunisia,1,1,draw,0,0,1,1998,564,1559.7,1487.98,1555.63,1492.05
+1998 FIFA World Cup,round of 16,1998-06-27,16:30,Italy,Norway,1,0,home team win,1,0,0,1998,565,1976.62,1553.13,1981.6,1548.15
+1998 FIFA World Cup,round of 16,1998-06-27,21:00,Brazil,Chile,4,1,home team win,1,0,0,1998,566,2328.01,1524.59,2328.65,1523.95
+1998 FIFA World Cup,round of 16,1998-06-28,21:00,Nigeria,Denmark,1,4,away team win,0,1,0,1998,567,1549.56,1555.2,1517.1,1587.66
+1998 FIFA World Cup,round of 16,1998-06-28,16:30,France,Paraguay,1,0,home team win,1,0,0,1998,568,1727.06,1532.86,1742.34,1517.58
+1998 FIFA World Cup,round of 16,1998-06-29,16:30,Germany,Mexico,2,1,home team win,1,0,0,1998,569,2217.98,1494.73,2218.93,1493.78
+1998 FIFA World Cup,round of 16,1998-06-29,21:00,Netherlands,Yugoslavia,2,1,home team win,1,0,0,1998,570,1591.26,1617.92,1624.63,1584.55
+1998 FIFA World Cup,round of 16,1998-06-30,16:30,Romania,Croatia,0,1,away team win,0,1,0,1998,571,1555.63,1538.21,1523.08,1570.76
+1998 FIFA World Cup,round of 16,1998-06-30,21:00,Argentina,England,2,2,home team win,1,0,0,1998,572,1972.61,1766.48,1986.64,1752.45
+1998 FIFA World Cup,quarter-finals,1998-07-03,21:00,Brazil,Denmark,3,2,home team win,1,0,0,1998,573,2328.65,1587.66,2329.92,1586.39
+1998 FIFA World Cup,quarter-finals,1998-07-03,16:30,Italy,France,0,0,away team win,0,1,0,1998,574,1981.6,1742.34,1909.73,1814.21
+1998 FIFA World Cup,quarter-finals,1998-07-04,21:00,Germany,Croatia,0,3,away team win,0,1,0,1998,575,2218.93,1570.76,2125.18,1664.51
+1998 FIFA World Cup,quarter-finals,1998-07-04,16:30,Netherlands,Argentina,2,1,home team win,1,0,0,1998,576,1624.63,1986.64,1706.45,1904.82
+1998 FIFA World Cup,semi-finals,1998-07-07,21:00,Brazil,Netherlands,1,1,home team win,1,0,0,1998,577,2329.92,1706.45,2333.55,1702.82
+1998 FIFA World Cup,semi-finals,1998-07-08,21:00,France,Croatia,2,1,home team win,1,0,0,1998,578,1814.21,1664.51,1854.9,1623.82
+1998 FIFA World Cup,third-place match,1998-07-11,21:00,Netherlands,Croatia,1,2,away team win,0,1,0,1998,579,1702.82,1623.82,1677.13,1649.51
+1998 FIFA World Cup,final,1998-07-12,21:00,Brazil,France,0,3,away team win,0,1,0,1998,580,2333.55,1854.9,2117.3199999999997,2296.13
+2002 FIFA World Cup,group stage,2002-05-31,20:30,France,Senegal,0,1,away team win,0,1,0,2002,581,2296.13,1500.0,2254.56,1541.57
+2002 FIFA World Cup,group stage,2002-06-01,15:30,Republic of Ireland,Cameroon,1,1,draw,0,0,1,2002,582,1520.36,1527.74,1520.78,1527.32
+2002 FIFA World Cup,group stage,2002-06-01,18:00,Uruguay,Denmark,1,2,away team win,0,1,0,2002,583,1559.41,1586.39,1540.04,1605.76
+2002 FIFA World Cup,group stage,2002-06-01,20:30,Germany,Saudi Arabia,8,0,home team win,1,0,0,2002,584,2125.18,1473.63,2126.47,1472.34
+2002 FIFA World Cup,group stage,2002-06-02,14:30,Argentina,Nigeria,1,0,home team win,1,0,0,2002,585,1904.82,1517.1,1908.89,1513.03
+2002 FIFA World Cup,group stage,2002-06-02,16:30,Paraguay,South Africa,2,2,draw,0,0,1,2002,586,1517.58,1492.12,1516.12,1493.58
+2002 FIFA World Cup,group stage,2002-06-02,18:30,England,Sweden,1,1,draw,0,0,1,2002,587,1752.45,1649.36,1746.68,1655.13
+2002 FIFA World Cup,group stage,2002-06-02,20:30,Spain,Slovenia,3,1,home team win,1,0,0,2002,588,1583.55,1500.0,1600.36,1483.19
+2002 FIFA World Cup,group stage,2002-06-03,20:30,Italy,Ecuador,2,0,home team win,1,0,0,2002,589,1909.73,1500.0,1913.53,1496.2
+2002 FIFA World Cup,group stage,2002-06-03,15:30,Croatia,Mexico,0,1,away team win,0,1,0,2002,590,1649.51,1493.78,1619.68,1523.61
+2002 FIFA World Cup,group stage,2002-06-03,18:00,Brazil,Turkey,2,1,home team win,1,0,0,2002,591,2117.3199999999997,1478.53,2118.36,1477.49
+2002 FIFA World Cup,group stage,2002-06-04,15:30,China,Costa Rica,0,2,away team win,0,1,0,2002,592,1500.0,1519.88,1479.26,1540.62
+2002 FIFA World Cup,group stage,2002-06-04,18:00,Japan,Belgium,2,2,draw,0,0,1,2002,593,1456.61,1536.87,1461.15,1532.33
+2002 FIFA World Cup,group stage,2002-06-04,20:30,South Korea,Poland,2,0,home team win,1,0,0,2002,594,1392.11,1655.26,1428.18,1619.19
+2002 FIFA World Cup,group stage,2002-06-05,15:30,Russia,Tunisia,2,0,home team win,1,0,0,2002,595,1509.59,1492.05,1530.48,1471.16
+2002 FIFA World Cup,group stage,2002-06-05,18:00,United States,Portugal,3,2,home team win,1,0,0,2002,596,1379.23,1564.18,1410.46,1532.95
+2002 FIFA World Cup,group stage,2002-06-05,20:30,Germany,Republic of Ireland,1,1,draw,0,0,1,2002,597,2126.47,1520.78,2107.66,1539.59
+2002 FIFA World Cup,group stage,2002-06-06,20:30,France,Uruguay,0,0,draw,0,0,1,2002,598,2254.56,1540.04,2235.2,1559.4
+2002 FIFA World Cup,group stage,2002-06-06,15:30,Denmark,Senegal,1,1,draw,0,0,1,2002,599,1605.76,1541.57,1602.11,1545.22
+2002 FIFA World Cup,group stage,2002-06-06,18:00,Cameroon,Saudi Arabia,1,0,home team win,1,0,0,2002,600,1527.32,1472.34,1545.02,1454.64
+2002 FIFA World Cup,group stage,2002-06-07,18:00,Spain,Paraguay,3,1,home team win,1,0,0,2002,601,1600.36,1516.12,1617.13,1499.35
+2002 FIFA World Cup,group stage,2002-06-07,20:30,Argentina,England,0,1,away team win,0,1,0,2002,602,1908.89,1746.68,1878.74,1776.83
+2002 FIFA World Cup,group stage,2002-06-07,15:30,Sweden,Nigeria,2,1,home team win,1,0,0,2002,603,1655.13,1513.03,1667.99,1500.17
+2002 FIFA World Cup,group stage,2002-06-08,20:30,Brazil,China,4,0,home team win,1,0,0,2002,604,2118.36,1479.26,2119.54,1478.08
+2002 FIFA World Cup,group stage,2002-06-08,15:30,South Africa,Slovenia,1,0,home team win,1,0,0,2002,605,1493.58,1483.19,1513.95,1462.82
+2002 FIFA World Cup,group stage,2002-06-08,18:00,Italy,Croatia,1,2,away team win,0,1,0,2002,606,1913.53,1619.68,1878.06,1655.15
+2002 FIFA World Cup,group stage,2002-06-09,15:30,Mexico,Ecuador,2,1,home team win,1,0,0,2002,607,1523.61,1496.2,1542.96,1476.85
+2002 FIFA World Cup,group stage,2002-06-09,18:00,Costa Rica,Turkey,1,1,draw,0,0,1,2002,608,1540.62,1477.49,1537.03,1481.08
+2002 FIFA World Cup,group stage,2002-06-09,20:30,Japan,Russia,1,0,home team win,1,0,0,2002,609,1461.15,1530.48,1486.29,1505.34
+2002 FIFA World Cup,group stage,2002-06-10,15:30,South Korea,United States,1,1,draw,0,0,1,2002,610,1428.18,1410.46,1427.16,1411.48
+2002 FIFA World Cup,group stage,2002-06-10,18:00,Tunisia,Belgium,1,1,draw,0,0,1,2002,611,1471.16,1532.33,1474.65,1528.84
+2002 FIFA World Cup,group stage,2002-06-10,20:30,Portugal,Poland,4,0,home team win,1,0,0,2002,612,1532.95,1619.19,1562.79,1589.35
+2002 FIFA World Cup,group stage,2002-06-11,15:30,Denmark,France,2,0,home team win,1,0,0,2002,613,1602.11,2235.2,1644.99,2192.32
+2002 FIFA World Cup,group stage,2002-06-11,15:30,Senegal,Uruguay,3,3,draw,0,0,1,2002,614,1545.22,1559.4,1546.04,1558.58
+2002 FIFA World Cup,group stage,2002-06-11,20:30,Cameroon,Germany,0,2,away team win,0,1,0,2002,615,1545.02,2107.66,1543.36,2109.32
+2002 FIFA World Cup,group stage,2002-06-11,20:30,Saudi Arabia,Republic of Ireland,0,3,away team win,0,1,0,2002,616,1454.64,1539.59,1437.15,1557.08
+2002 FIFA World Cup,group stage,2002-06-12,20:30,Slovenia,Paraguay,1,3,away team win,0,1,0,2002,617,1462.82,1499.35,1443.12,1519.05
+2002 FIFA World Cup,group stage,2002-06-12,20:30,South Africa,Spain,2,3,away team win,0,1,0,2002,618,1513.95,1617.13,1499.01,1632.07
+2002 FIFA World Cup,group stage,2002-06-12,15:30,Nigeria,England,0,0,draw,0,0,1,2002,619,1500.17,1776.83,1513.41,1763.59
+2002 FIFA World Cup,group stage,2002-06-12,15:30,Sweden,Argentina,1,1,draw,0,0,1,2002,620,1667.99,1878.74,1678.82,1867.91
+2002 FIFA World Cup,group stage,2002-06-13,15:30,Costa Rica,Brazil,2,5,away team win,0,1,0,2002,621,1537.03,2119.54,1535.48,2121.09
+2002 FIFA World Cup,group stage,2002-06-13,15:30,Turkey,China,3,0,home team win,1,0,0,2002,622,1481.08,1478.08,1503.88,1455.28
+2002 FIFA World Cup,group stage,2002-06-13,20:30,Ecuador,Croatia,1,0,home team win,1,0,0,2002,623,1476.85,1655.15,1507.77,1624.23
+2002 FIFA World Cup,group stage,2002-06-13,20:30,Mexico,Italy,1,1,draw,0,0,1,2002,624,1542.96,1878.06,1557.89,1863.13
+2002 FIFA World Cup,group stage,2002-06-14,20:30,Portugal,South Korea,0,1,away team win,0,1,0,2002,625,1562.79,1427.16,1533.98,1455.97
+2002 FIFA World Cup,group stage,2002-06-14,20:30,Poland,United States,3,1,home team win,1,0,0,2002,626,1589.35,1411.48,1600.98,1399.85
+2002 FIFA World Cup,group stage,2002-06-14,15:30,Belgium,Russia,3,2,home team win,1,0,0,2002,627,1528.84,1505.34,1548.42,1485.76
+2002 FIFA World Cup,group stage,2002-06-14,15:30,Tunisia,Japan,0,2,away team win,0,1,0,2002,628,1474.65,1486.29,1453.39,1507.55
+2002 FIFA World Cup,round of 16,2002-06-15,15:30,Germany,Paraguay,1,0,home team win,1,0,0,2002,629,2109.32,1519.05,2111.33,1517.04
+2002 FIFA World Cup,round of 16,2002-06-15,20:30,Denmark,England,0,3,away team win,0,1,0,2002,630,1644.99,1763.59,1622.84,1785.74
+2002 FIFA World Cup,round of 16,2002-06-16,15:30,Sweden,Senegal,1,2,away team win,0,1,0,2002,631,1678.82,1546.04,1636.52,1588.34
+2002 FIFA World Cup,round of 16,2002-06-16,20:30,Spain,Republic of Ireland,1,1,home team win,1,0,0,2002,632,1632.07,1557.08,1655.69,1533.46
+2002 FIFA World Cup,round of 16,2002-06-17,20:30,Brazil,Belgium,2,0,home team win,1,0,0,2002,633,2121.09,1548.42,2123.37,1546.14
+2002 FIFA World Cup,round of 16,2002-06-17,15:30,Mexico,United States,0,2,away team win,0,1,0,2002,634,1557.89,1399.85,1512.26,1445.48
+2002 FIFA World Cup,round of 16,2002-06-18,20:30,South Korea,Italy,2,1,home team win,1,0,0,2002,635,1455.97,1863.13,1512.54,1806.56
+2002 FIFA World Cup,round of 16,2002-06-18,15:30,Japan,Turkey,0,1,away team win,0,1,0,2002,636,1507.55,1503.88,1476.22,1535.21
+2002 FIFA World Cup,quarter-finals,2002-06-21,15:30,England,Brazil,1,2,away team win,0,1,0,2002,637,1785.74,2123.37,1774.22,2134.89
+2002 FIFA World Cup,quarter-finals,2002-06-21,20:30,Germany,United States,1,0,home team win,1,0,0,2002,638,2111.33,1445.48,2113.28,1443.53
+2002 FIFA World Cup,quarter-finals,2002-06-22,15:30,Spain,South Korea,0,0,away team win,0,1,0,2002,639,1655.69,1512.54,1593.13,1575.1
+2002 FIFA World Cup,quarter-finals,2002-06-22,20:30,Senegal,Turkey,0,1,away team win,0,1,0,2002,640,1588.34,1535.21,1535.36,1588.19
+2002 FIFA World Cup,semi-finals,2002-06-25,20:30,Germany,South Korea,1,0,home team win,1,0,0,2002,641,2113.28,1575.1,2119.2,1569.18
+2002 FIFA World Cup,semi-finals,2002-06-26,20:30,Brazil,Turkey,1,0,home team win,1,0,0,2002,642,2134.89,1588.19,2140.54,1582.54
+2002 FIFA World Cup,third-place match,2002-06-29,20:00,South Korea,Turkey,2,3,away team win,0,1,0,2002,643,1569.18,1582.54,1548.99,1602.73
+2002 FIFA World Cup,final,2002-06-30,20:00,Germany,Brazil,0,2,away team win,0,1,0,2002,644,2119.2,2140.54,2049.76,2434.98
+2006 FIFA World Cup,group stage,2006-06-09,18:00,Germany,Costa Rica,4,2,home team win,1,0,0,2006,645,2049.76,1535.48,2051.93,1533.31
+2006 FIFA World Cup,group stage,2006-06-09,21:00,Poland,Ecuador,0,2,away team win,0,1,0,2006,646,1600.98,1507.77,1573.22,1535.53
+2006 FIFA World Cup,group stage,2006-06-10,15:00,England,Paraguay,1,0,home team win,1,0,0,2006,647,1774.22,1517.04,1782.01,1509.25
+2006 FIFA World Cup,group stage,2006-06-10,18:00,Trinidad and Tobago,Sweden,0,0,draw,0,0,1,2006,648,1500.0,1636.52,1507.48,1629.04
+2006 FIFA World Cup,group stage,2006-06-10,21:00,Argentina,Ivory Coast,2,1,home team win,1,0,0,2006,649,1867.91,1500.0,1872.42,1495.49
+2006 FIFA World Cup,group stage,2006-06-11,21:00,Angola,Portugal,0,1,away team win,0,1,0,2006,650,1500.0,1533.98,1481.05,1552.93
+2006 FIFA World Cup,group stage,2006-06-11,18:00,Mexico,Iran,3,1,home team win,1,0,0,2006,651,1512.26,1465.04,1531.29,1446.01
+2006 FIFA World Cup,group stage,2006-06-11,15:00,Serbia and Montenegro,Netherlands,0,1,away team win,0,1,0,2006,652,1500.0,1677.13,1488.87,1688.26
+2006 FIFA World Cup,group stage,2006-06-12,15:00,Australia,Japan,3,1,home team win,1,0,0,2006,653,1475.91,1476.22,1497.93,1454.2
+2006 FIFA World Cup,group stage,2006-06-12,18:00,United States,Czech Republic,0,3,away team win,0,1,0,2006,654,1443.53,1500.0,1424.24,1519.29
+2006 FIFA World Cup,group stage,2006-06-12,21:00,Italy,Ghana,2,0,home team win,1,0,0,2006,655,1806.56,1500.0,1812.99,1493.57
+2006 FIFA World Cup,group stage,2006-06-13,15:00,South Korea,Togo,2,1,home team win,1,0,0,2006,656,1548.99,1500.0,1567.05,1481.94
+2006 FIFA World Cup,group stage,2006-06-13,18:00,France,Switzerland,0,0,draw,0,0,1,2006,657,2192.32,1404.58,2172.74,1424.16
+2006 FIFA World Cup,group stage,2006-06-13,21:00,Brazil,Croatia,1,0,home team win,1,0,0,2006,658,2434.98,1624.23,2435.37,1623.84
+2006 FIFA World Cup,group stage,2006-06-14,15:00,Spain,Ukraine,4,0,home team win,1,0,0,2006,659,1593.13,1500.0,1610.85,1482.28
+2006 FIFA World Cup,group stage,2006-06-14,18:00,Tunisia,Saudi Arabia,2,2,draw,0,0,1,2006,660,1453.39,1437.15,1452.46,1438.08
+2006 FIFA World Cup,group stage,2006-06-14,21:00,Germany,Poland,1,0,home team win,1,0,0,2006,661,2051.93,1573.22,2054.44,1570.71
+2006 FIFA World Cup,group stage,2006-06-15,15:00,Ecuador,Costa Rica,3,0,home team win,1,0,0,2006,662,1535.53,1533.31,1558.38,1510.46
+2006 FIFA World Cup,group stage,2006-06-15,18:00,England,Trinidad and Tobago,2,0,home team win,1,0,0,2006,663,1782.01,1507.48,1789.52,1499.97
+2006 FIFA World Cup,group stage,2006-06-15,21:00,Sweden,Paraguay,1,0,home team win,1,0,0,2006,664,1629.04,1509.25,1643.07,1495.22
+2006 FIFA World Cup,group stage,2006-06-16,21:00,Mexico,Angola,0,0,draw,0,0,1,2006,665,1531.29,1481.05,1528.42,1483.92
+2006 FIFA World Cup,group stage,2006-06-16,15:00,Argentina,Serbia and Montenegro,6,0,home team win,1,0,0,2006,666,1872.42,1488.87,1877.57,1483.72
+2006 FIFA World Cup,group stage,2006-06-16,18:00,Netherlands,Ivory Coast,2,1,home team win,1,0,0,2006,667,1688.26,1495.49,1698.67,1485.08
+2006 FIFA World Cup,group stage,2006-06-17,15:00,Portugal,Iran,2,0,home team win,1,0,0,2006,668,1552.93,1446.01,1568.37,1430.57
+2006 FIFA World Cup,group stage,2006-06-17,18:00,Czech Republic,Ghana,0,2,away team win,0,1,0,2006,669,1519.29,1493.57,1495.66,1517.2
+2006 FIFA World Cup,group stage,2006-06-17,21:00,Italy,United States,1,1,draw,0,0,1,2006,670,1812.99,1424.24,1796.85,1440.38
+2006 FIFA World Cup,group stage,2006-06-18,15:00,Japan,Croatia,0,0,draw,0,0,1,2006,671,1454.2,1623.84,1463.26,1614.78
+2006 FIFA World Cup,group stage,2006-06-18,18:00,Brazil,Australia,2,0,home team win,1,0,0,2006,672,2435.37,1497.93,2435.57,1497.73
+2006 FIFA World Cup,group stage,2006-06-18,21:00,France,South Korea,1,1,draw,0,0,1,2006,673,2172.74,1567.05,2153.93,1585.86
+2006 FIFA World Cup,group stage,2006-06-19,15:00,Togo,Switzerland,0,2,away team win,0,1,0,2006,674,1481.94,1424.16,1456.31,1449.79
+2006 FIFA World Cup,group stage,2006-06-19,18:00,Saudi Arabia,Ukraine,0,4,away team win,0,1,0,2006,675,1438.08,1482.28,1417.12,1503.24
+2006 FIFA World Cup,group stage,2006-06-19,21:00,Spain,Tunisia,3,1,home team win,1,0,0,2006,676,1610.85,1452.46,1623.46,1439.85
+2006 FIFA World Cup,group stage,2006-06-20,21:00,Paraguay,Trinidad and Tobago,2,0,home team win,1,0,0,2006,677,1495.22,1499.97,1517.52,1477.67
+2006 FIFA World Cup,group stage,2006-06-20,21:00,Sweden,England,2,2,draw,0,0,1,2006,678,1643.07,1789.52,1651.03,1781.56
+2006 FIFA World Cup,group stage,2006-06-20,16:00,Costa Rica,Poland,1,2,away team win,0,1,0,2006,679,1510.46,1570.71,1493.07,1588.1
+2006 FIFA World Cup,group stage,2006-06-20,16:00,Ecuador,Germany,0,3,away team win,0,1,0,2006,680,1558.38,2054.44,1555.88,2056.94
+2006 FIFA World Cup,group stage,2006-06-21,16:00,Iran,Angola,1,1,draw,0,0,1,2006,681,1430.57,1483.92,1433.62,1480.87
+2006 FIFA World Cup,group stage,2006-06-21,16:00,Portugal,Mexico,2,1,home team win,1,0,0,2006,682,1568.37,1528.42,1586.97,1509.82
+2006 FIFA World Cup,group stage,2006-06-21,21:00,Ivory Coast,Serbia and Montenegro,3,2,home team win,1,0,0,2006,683,1485.08,1483.72,1506.0,1462.8
+2006 FIFA World Cup,group stage,2006-06-21,21:00,Netherlands,Argentina,0,0,draw,0,0,1,2006,684,1698.67,1877.57,1708.15,1868.09
+2006 FIFA World Cup,group stage,2006-06-22,16:00,Czech Republic,Italy,0,2,away team win,0,1,0,2006,685,1495.66,1796.85,1489.06,1803.45
+2006 FIFA World Cup,group stage,2006-06-22,16:00,Ghana,United States,2,1,home team win,1,0,0,2006,686,1517.2,1440.38,1533.63,1423.95
+2006 FIFA World Cup,group stage,2006-06-22,21:00,Croatia,Australia,2,2,draw,0,0,1,2006,687,1614.78,1497.73,1608.29,1504.22
+2006 FIFA World Cup,group stage,2006-06-22,21:00,Japan,Brazil,1,4,away team win,0,1,0,2006,688,1463.26,2435.57,1463.09,2435.74
+2006 FIFA World Cup,group stage,2006-06-23,21:00,Togo,France,0,2,away team win,0,1,0,2006,689,1456.31,2153.93,1455.53,2154.71
+2006 FIFA World Cup,group stage,2006-06-23,16:00,Saudi Arabia,Spain,0,1,away team win,0,1,0,2006,690,1417.12,1623.46,1407.31,1633.27
+2006 FIFA World Cup,group stage,2006-06-23,16:00,Ukraine,Tunisia,1,0,home team win,1,0,0,2006,691,1503.24,1439.85,1520.45,1422.64
+2006 FIFA World Cup,group stage,2006-06-23,21:00,Switzerland,South Korea,2,0,home team win,1,0,0,2006,692,1449.79,1585.86,1479.99,1555.66
+2006 FIFA World Cup,round of 16,2006-06-24,21:00,Argentina,Mexico,2,1,home team win,1,0,0,2006,693,1868.09,1509.82,1875.08,1502.83
+2006 FIFA World Cup,round of 16,2006-06-24,17:00,Germany,Sweden,2,0,home team win,1,0,0,2006,694,2056.94,1651.03,2062.58,1645.39
+2006 FIFA World Cup,round of 16,2006-06-25,17:00,England,Ecuador,1,0,home team win,1,0,0,2006,695,1781.56,1555.88,1794.85,1542.59
+2006 FIFA World Cup,round of 16,2006-06-25,21:00,Portugal,Netherlands,1,0,home team win,1,0,0,2006,696,1586.97,1708.15,1628.36,1666.76
+2006 FIFA World Cup,round of 16,2006-06-26,17:00,Italy,Australia,1,0,home team win,1,0,0,2006,697,1803.45,1504.22,1812.85,1494.82
+2006 FIFA World Cup,round of 16,2006-06-26,21:00,Switzerland,Ukraine,0,0,away team win,0,1,0,2006,698,1479.99,1520.45,1453.47,1546.97
+2006 FIFA World Cup,round of 16,2006-06-27,17:00,Brazil,Ghana,3,0,home team win,1,0,0,2006,699,2435.74,1533.63,2436.1,1533.27
+2006 FIFA World Cup,round of 16,2006-06-27,21:00,Spain,France,1,3,away team win,0,1,0,2006,700,1633.27,2154.71,1630.24,2157.74
+2006 FIFA World Cup,quarter-finals,2006-06-30,17:00,Germany,Argentina,1,1,home team win,1,0,0,2006,701,2062.58,1875.08,2085.41,1852.25
+2006 FIFA World Cup,quarter-finals,2006-06-30,21:00,Italy,Ukraine,3,0,home team win,1,0,0,2006,702,1812.85,1546.97,1829.93,1529.89
+2006 FIFA World Cup,quarter-finals,2006-07-01,17:00,England,Portugal,0,0,away team win,0,1,0,2006,703,1794.85,1628.36,1729.8,1693.41
+2006 FIFA World Cup,quarter-finals,2006-07-01,21:00,Brazil,France,0,1,away team win,0,1,0,2006,704,2436.1,2157.74,2359.52,2234.32
+2006 FIFA World Cup,semi-finals,2006-07-04,21:00,Germany,Italy,0,2,away team win,0,1,0,2006,705,2085.41,1829.93,1972.38,1942.96
+2006 FIFA World Cup,semi-finals,2006-07-05,21:00,Portugal,France,0,1,away team win,0,1,0,2006,706,1693.41,2234.32,1687.58,2240.15
+2006 FIFA World Cup,third-place match,2006-07-08,21:00,Germany,Portugal,3,1,home team win,1,0,0,2006,707,1972.38,1687.58,1979.53,1680.43
+2006 FIFA World Cup,final,2006-07-09,20:00,Italy,France,1,1,home team win,1,0,0,2006,708,1942.96,2240.15,2350.22,2057.8900000000003
+2010 FIFA World Cup,group stage,2010-06-11,16:00,South Africa,Mexico,1,1,draw,0,0,1,2010,709,1499.01,1502.83,1499.23,1502.61
+2010 FIFA World Cup,group stage,2010-06-11,20:30,Uruguay,France,0,0,draw,0,0,1,2010,710,1558.58,2057.8900000000003,1576.44,2040.03
+2010 FIFA World Cup,group stage,2010-06-12,13:30,South Korea,Greece,2,0,home team win,1,0,0,2010,711,1555.66,1447.69,1571.04,1432.31
+2010 FIFA World Cup,group stage,2010-06-12,16:00,Argentina,Nigeria,1,0,home team win,1,0,0,2010,712,1852.25,1513.41,1857.48,1508.18
+2010 FIFA World Cup,group stage,2010-06-12,20:30,England,United States,1,1,draw,0,0,1,2010,713,1729.8,1423.95,1715.67,1438.08
+2010 FIFA World Cup,group stage,2010-06-13,13:30,Algeria,Slovenia,0,1,away team win,0,1,0,2010,714,1514.72,1443.12,1489.45,1468.39
+2010 FIFA World Cup,group stage,2010-06-13,16:00,Serbia,Ghana,0,1,away team win,0,1,0,2010,715,1500.0,1533.27,1481.0,1552.27
+2010 FIFA World Cup,group stage,2010-06-13,20:30,Germany,Australia,4,0,home team win,1,0,0,2010,716,1979.53,1494.82,1982.31,1492.04
+2010 FIFA World Cup,group stage,2010-06-14,13:30,Netherlands,Denmark,2,0,home team win,1,0,0,2010,717,1666.76,1622.84,1685.99,1603.61
+2010 FIFA World Cup,group stage,2010-06-14,16:00,Japan,Cameroon,1,0,home team win,1,0,0,2010,718,1463.09,1543.36,1488.86,1517.59
+2010 FIFA World Cup,group stage,2010-06-14,20:30,Italy,Paraguay,1,1,draw,0,0,1,2010,719,2350.22,1517.52,2330.55,1537.19
+2010 FIFA World Cup,group stage,2010-06-15,16:00,Ivory Coast,Portugal,0,0,draw,0,0,1,2010,720,1506.0,1680.43,1515.27,1671.16
+2010 FIFA World Cup,group stage,2010-06-15,13:30,New Zealand,Slovakia,1,1,draw,0,0,1,2010,721,1457.91,1500.0,1460.32,1497.59
+2010 FIFA World Cup,group stage,2010-06-15,20:30,Brazil,North Korea,2,1,home team win,1,0,0,2010,722,2359.52,1484.57,2359.79,1484.3
+2010 FIFA World Cup,group stage,2010-06-16,20:30,South Africa,Uruguay,0,3,away team win,0,1,0,2010,723,1499.23,1576.44,1481.26,1594.41
+2010 FIFA World Cup,group stage,2010-06-16,16:00,Spain,Switzerland,0,1,away team win,0,1,0,2010,724,1630.24,1453.47,1599.39,1484.32
+2010 FIFA World Cup,group stage,2010-06-16,13:30,Honduras,Chile,0,1,away team win,0,1,0,2010,725,1478.52,1523.95,1460.25,1542.22
+2010 FIFA World Cup,group stage,2010-06-17,13:30,Argentina,South Korea,4,1,home team win,1,0,0,2010,726,1857.48,1571.04,1864.9,1563.62
+2010 FIFA World Cup,group stage,2010-06-17,16:00,Greece,Nigeria,2,1,home team win,1,0,0,2010,727,1432.31,1508.18,1457.82,1482.67
+2010 FIFA World Cup,group stage,2010-06-17,20:30,France,Mexico,0,2,away team win,0,1,0,2010,728,2040.03,1502.61,1997.94,1544.7
+2010 FIFA World Cup,group stage,2010-06-18,13:30,Germany,Serbia,0,1,away team win,0,1,0,2010,729,1982.31,1481.0,1942.53,1520.78
+2010 FIFA World Cup,group stage,2010-06-18,16:00,Slovenia,United States,2,2,draw,0,0,1,2010,730,1468.39,1438.08,1466.65,1439.82
+2010 FIFA World Cup,group stage,2010-06-18,20:30,England,Algeria,0,0,draw,0,0,1,2010,731,1715.67,1489.45,1704.22,1500.9
+2010 FIFA World Cup,group stage,2010-06-19,13:30,Netherlands,Japan,1,0,home team win,1,0,0,2010,732,1685.99,1488.86,1696.21,1478.64
+2010 FIFA World Cup,group stage,2010-06-19,16:00,Ghana,Australia,1,1,draw,0,0,1,2010,733,1552.27,1492.04,1548.84,1495.47
+2010 FIFA World Cup,group stage,2010-06-19,20:30,Cameroon,Denmark,1,2,away team win,0,1,0,2010,734,1517.59,1603.61,1501.69,1619.51
+2010 FIFA World Cup,group stage,2010-06-20,13:30,Slovakia,Paraguay,0,2,away team win,0,1,0,2010,735,1497.59,1537.19,1478.09,1556.69
+2010 FIFA World Cup,group stage,2010-06-20,16:00,Italy,New Zealand,1,1,draw,0,0,1,2010,736,2330.55,1460.32,2310.82,1480.05
+2010 FIFA World Cup,group stage,2010-06-20,20:30,Brazil,Ivory Coast,3,1,home team win,1,0,0,2010,737,2359.79,1515.27,2360.13,1514.93
+2010 FIFA World Cup,group stage,2010-06-21,16:00,Chile,Switzerland,1,0,home team win,1,0,0,2010,738,1542.22,1484.32,1559.75,1466.79
+2010 FIFA World Cup,group stage,2010-06-21,20:30,Spain,Honduras,2,0,home team win,1,0,0,2010,739,1599.39,1460.25,1613.02,1446.62
+2010 FIFA World Cup,group stage,2010-06-21,13:30,Portugal,North Korea,7,0,home team win,1,0,0,2010,740,1671.16,1484.3,1684.89,1470.57
+2010 FIFA World Cup,group stage,2010-06-22,16:00,France,South Africa,1,2,away team win,0,1,0,2010,741,1997.94,1481.26,1957.98,1521.22
+2010 FIFA World Cup,group stage,2010-06-22,16:00,Mexico,Uruguay,0,1,away team win,0,1,0,2010,742,1544.7,1594.41,1526.68,1612.43
+2010 FIFA World Cup,group stage,2010-06-22,20:30,Greece,Argentina,0,2,away team win,0,1,0,2010,743,1457.82,1864.9,1453.97,1868.75
+2010 FIFA World Cup,group stage,2010-06-22,20:30,Nigeria,South Korea,2,2,draw,0,0,1,2010,744,1482.67,1563.62,1487.25,1559.04
+2010 FIFA World Cup,group stage,2010-06-23,16:00,Slovenia,England,0,1,away team win,0,1,0,2010,745,1466.65,1704.22,1458.12,1712.75
+2010 FIFA World Cup,group stage,2010-06-23,16:00,United States,Algeria,1,0,home team win,1,0,0,2010,746,1439.82,1500.9,1464.47,1476.25
+2010 FIFA World Cup,group stage,2010-06-23,20:30,Australia,Serbia,2,1,home team win,1,0,0,2010,747,1495.47,1520.78,1518.0,1498.25
+2010 FIFA World Cup,group stage,2010-06-23,20:30,Ghana,Germany,0,1,away team win,0,1,0,2010,748,1548.84,1942.53,1544.89,1946.48
+2010 FIFA World Cup,group stage,2010-06-24,16:00,Paraguay,New Zealand,0,0,draw,0,0,1,2010,749,1556.69,1480.05,1552.35,1484.39
+2010 FIFA World Cup,group stage,2010-06-24,16:00,Slovakia,Italy,3,2,home team win,1,0,0,2010,750,1478.09,2310.82,1519.74,2269.17
+2010 FIFA World Cup,group stage,2010-06-24,20:30,Cameroon,Netherlands,1,2,away team win,0,1,0,2010,751,1501.69,1696.21,1491.36,1706.54
+2010 FIFA World Cup,group stage,2010-06-24,20:30,Denmark,Japan,1,3,away team win,0,1,0,2010,752,1619.51,1478.64,1589.05,1509.1
+2010 FIFA World Cup,group stage,2010-06-25,20:30,Switzerland,Honduras,0,0,draw,0,0,1,2010,753,1466.79,1446.62,1465.63,1447.78
+2010 FIFA World Cup,group stage,2010-06-25,20:30,Chile,Spain,1,2,away team win,0,1,0,2010,754,1559.75,1613.02,1541.94,1630.83
+2010 FIFA World Cup,group stage,2010-06-25,16:00,North Korea,Ivory Coast,0,3,away team win,0,1,0,2010,755,1470.57,1514.93,1450.49,1535.01
+2010 FIFA World Cup,group stage,2010-06-25,16:00,Portugal,Brazil,0,0,draw,0,0,1,2010,756,1684.89,2360.13,1704.09,2340.93
+2010 FIFA World Cup,round of 16,2010-06-26,16:00,Uruguay,South Korea,2,1,home team win,1,0,0,2010,757,1612.43,1559.04,1638.7,1532.77
+2010 FIFA World Cup,round of 16,2010-06-26,20:30,United States,Ghana,1,2,away team win,0,1,0,2010,758,1464.47,1544.89,1440.52,1568.84
+2010 FIFA World Cup,round of 16,2010-06-27,16:00,Germany,England,4,1,home team win,1,0,0,2010,759,1946.48,1712.75,1960.12,1699.11
+2010 FIFA World Cup,round of 16,2010-06-27,20:30,Argentina,Mexico,3,1,home team win,1,0,0,2010,760,1868.75,1526.68,1876.59,1518.84
+2010 FIFA World Cup,round of 16,2010-06-28,16:00,Netherlands,Slovakia,2,1,home team win,1,0,0,2010,761,1706.54,1519.74,1722.31,1503.97
+2010 FIFA World Cup,round of 16,2010-06-28,20:30,Brazil,Chile,3,0,home team win,1,0,0,2010,762,2340.93,1541.94,2341.59,1541.28
+2010 FIFA World Cup,round of 16,2010-06-29,16:00,Paraguay,Japan,0,0,home team win,1,0,0,2010,763,1552.35,1509.1,1578.63,1482.82
+2010 FIFA World Cup,round of 16,2010-06-29,20:30,Spain,Portugal,1,0,home team win,1,0,0,2010,764,1630.83,1704.09,1668.27,1666.65
+2010 FIFA World Cup,quarter-finals,2010-07-02,20:30,Uruguay,Ghana,1,1,home team win,1,0,0,2010,765,1638.7,1568.84,1674.77,1532.77
+2010 FIFA World Cup,quarter-finals,2010-07-02,16:00,Netherlands,Brazil,2,1,home team win,1,0,0,2010,766,1722.31,2341.59,1811.78,2252.12
+2010 FIFA World Cup,quarter-finals,2010-07-03,20:30,Paraguay,Spain,0,1,away team win,0,1,0,2010,767,1578.63,1668.27,1544.24,1702.66
+2010 FIFA World Cup,quarter-finals,2010-07-03,16:00,Argentina,Germany,0,4,away team win,0,1,0,2010,768,1876.59,1960.12,1839.15,1997.56
+2010 FIFA World Cup,semi-finals,2010-07-06,20:30,Uruguay,Netherlands,2,3,away team win,0,1,0,2010,769,1674.77,1811.78,1631.96,1854.59
+2010 FIFA World Cup,semi-finals,2010-07-07,20:30,Germany,Spain,0,1,away team win,0,1,0,2010,770,1997.56,1702.66,1881.77,1818.45
+2010 FIFA World Cup,third-place match,2010-07-10,20:30,Uruguay,Germany,2,3,away team win,0,1,0,2010,771,1631.96,1881.77,1623.9,1889.83
+2010 FIFA World Cup,final,2010-07-11,20:30,Netherlands,Spain,0,1,away team win,0,1,0,2010,772,1854.59,1818.45,1760.87,2137.17
+2014 FIFA World Cup,group stage,2014-06-12,17:00,Brazil,Croatia,3,1,home team win,1,0,0,2014,773,2252.12,1608.29,2253.18,1607.23
+2014 FIFA World Cup,group stage,2014-06-13,18:00,Chile,Australia,3,1,home team win,1,0,0,2014,774,1541.28,1518.0,1561.81,1497.47
+2014 FIFA World Cup,group stage,2014-06-13,13:00,Mexico,Cameroon,1,0,home team win,1,0,0,2014,775,1518.84,1491.36,1538.18,1472.02
+2014 FIFA World Cup,group stage,2014-06-13,16:00,Spain,Netherlands,1,5,away team win,0,1,0,2014,776,2137.17,1760.87,2094.11,1803.93
+2014 FIFA World Cup,group stage,2014-06-14,18:00,England,Italy,1,2,away team win,0,1,0,2014,777,1699.11,2269.17,1697.59,2270.69
+2014 FIFA World Cup,group stage,2014-06-14,22:00,Ivory Coast,Japan,2,1,home team win,1,0,0,2014,778,1535.01,1482.82,1552.88,1464.95
+2014 FIFA World Cup,group stage,2014-06-14,13:00,Colombia,Greece,3,0,home team win,1,0,0,2014,779,1446.02,1453.97,1469.55,1430.44
+2014 FIFA World Cup,group stage,2014-06-14,16:00,Uruguay,Costa Rica,1,3,away team win,0,1,0,2014,780,1623.9,1493.07,1593.99,1522.98
+2014 FIFA World Cup,group stage,2014-06-15,16:00,France,Honduras,3,0,home team win,1,0,0,2014,781,1957.98,1447.78,1960.3,1445.46
+2014 FIFA World Cup,group stage,2014-06-15,19:00,Argentina,Bosnia and Herzegovina,2,1,home team win,1,0,0,2014,782,1839.15,1500.0,1844.37,1494.78
+2014 FIFA World Cup,group stage,2014-06-15,13:00,Switzerland,Ecuador,2,1,home team win,1,0,0,2014,783,1465.63,1542.59,1491.21,1517.01
+2014 FIFA World Cup,group stage,2014-06-16,13:00,Germany,Portugal,4,0,home team win,1,0,0,2014,784,1889.83,1666.65,1900.23,1656.25
+2014 FIFA World Cup,group stage,2014-06-16,16:00,Iran,Nigeria,0,0,draw,0,0,1,2014,785,1433.62,1487.25,1436.68,1484.19
+2014 FIFA World Cup,group stage,2014-06-16,19:00,Ghana,United States,1,2,away team win,0,1,0,2014,786,1532.77,1440.52,1506.32,1466.97
+2014 FIFA World Cup,group stage,2014-06-17,13:00,Belgium,Algeria,2,1,home team win,1,0,0,2014,787,1546.14,1476.25,1562.97,1459.42
+2014 FIFA World Cup,group stage,2014-06-17,16:00,Brazil,Mexico,0,0,draw,0,0,1,2014,788,2253.18,1538.18,2233.82,1557.54
+2014 FIFA World Cup,group stage,2014-06-17,18:00,Russia,South Korea,1,1,draw,0,0,1,2014,789,1485.76,1532.77,1488.45,1530.08
+2014 FIFA World Cup,group stage,2014-06-18,13:00,Australia,Netherlands,2,3,away team win,0,1,0,2014,790,1497.47,1803.93,1491.33,1810.07
+2014 FIFA World Cup,group stage,2014-06-18,16:00,Spain,Chile,0,2,away team win,0,1,0,2014,791,2094.11,1561.81,2052.07,1603.85
+2014 FIFA World Cup,group stage,2014-06-18,18:00,Cameroon,Croatia,0,4,away team win,0,1,0,2014,792,1472.02,1607.23,1456.92,1622.33
+2014 FIFA World Cup,group stage,2014-06-19,19:00,Japan,Greece,0,0,draw,0,0,1,2014,793,1464.95,1430.44,1462.97,1432.42
+2014 FIFA World Cup,group stage,2014-06-19,13:00,Colombia,Ivory Coast,2,1,home team win,1,0,0,2014,794,1469.55,1552.88,1495.49,1526.94
+2014 FIFA World Cup,group stage,2014-06-19,16:00,Uruguay,England,2,1,home team win,1,0,0,2014,795,1593.99,1697.59,1621.07,1670.51
+2014 FIFA World Cup,group stage,2014-06-20,19:00,Honduras,Ecuador,1,2,away team win,0,1,0,2014,796,1445.46,1517.01,1428.72,1533.75
+2014 FIFA World Cup,group stage,2014-06-20,13:00,Italy,Costa Rica,0,1,away team win,0,1,0,2014,797,2270.69,1522.98,2229.25,1564.42
+2014 FIFA World Cup,group stage,2014-06-20,16:00,Switzerland,France,2,5,away team win,0,1,0,2014,798,1491.21,1960.3,1488.31,1963.2
+2014 FIFA World Cup,group stage,2014-06-21,13:00,Argentina,Iran,1,0,home team win,1,0,0,2014,799,1844.37,1436.68,1848.04,1433.01
+2014 FIFA World Cup,group stage,2014-06-21,16:00,Germany,Ghana,2,2,draw,0,0,1,2014,800,1900.23,1506.32,1883.98,1522.57
+2014 FIFA World Cup,group stage,2014-06-21,18:00,Nigeria,Bosnia and Herzegovina,1,0,home team win,1,0,0,2014,801,1484.19,1494.78,1505.83,1473.14
+2014 FIFA World Cup,group stage,2014-06-22,13:00,Belgium,Russia,1,0,home team win,1,0,0,2014,802,1562.97,1488.45,1579.53,1471.89
+2014 FIFA World Cup,group stage,2014-06-22,16:00,South Korea,Algeria,2,4,away team win,0,1,0,2014,803,1530.08,1459.42,1503.67,1485.83
+2014 FIFA World Cup,group stage,2014-06-22,18:00,United States,Portugal,2,2,draw,0,0,1,2014,804,1466.97,1656.25,1476.9,1646.32
+2014 FIFA World Cup,group stage,2014-06-23,17:00,Cameroon,Brazil,1,4,away team win,0,1,0,2014,805,1456.92,2233.82,1456.4,2234.34
+2014 FIFA World Cup,group stage,2014-06-23,13:00,Australia,Spain,0,3,away team win,0,1,0,2014,806,1491.33,2052.07,1489.58,2053.82
+2014 FIFA World Cup,group stage,2014-06-23,13:00,Netherlands,Chile,2,0,home team win,1,0,0,2014,807,1810.07,1603.85,1820.36,1593.56
+2014 FIFA World Cup,group stage,2014-06-23,17:00,Croatia,Mexico,1,3,away team win,0,1,0,2014,808,1622.33,1557.54,1596.27,1583.6
+2014 FIFA World Cup,group stage,2014-06-24,17:00,Greece,Ivory Coast,2,1,home team win,1,0,0,2014,809,1432.42,1526.94,1459.0,1500.36
+2014 FIFA World Cup,group stage,2014-06-24,16:00,Japan,Colombia,1,4,away team win,0,1,0,2014,810,1462.97,1495.49,1442.12,1516.34
+2014 FIFA World Cup,group stage,2014-06-24,13:00,Italy,Uruguay,0,1,away team win,0,1,0,2014,811,2229.25,1621.07,2188.48,1661.84
+2014 FIFA World Cup,group stage,2014-06-24,13:00,Costa Rica,England,0,0,draw,0,0,1,2014,812,1564.42,1670.51,1570.34,1664.59
+2014 FIFA World Cup,group stage,2014-06-25,13:00,Bosnia and Herzegovina,Iran,3,1,home team win,1,0,0,2014,813,1473.14,1433.01,1492.61,1413.54
+2014 FIFA World Cup,group stage,2014-06-25,13:00,Nigeria,Argentina,2,3,away team win,0,1,0,2014,814,1505.83,1848.04,1500.69,1853.18
+2014 FIFA World Cup,group stage,2014-06-25,16:00,Honduras,Switzerland,0,3,away team win,0,1,0,2014,815,1428.72,1488.31,1409.63,1507.4
+2014 FIFA World Cup,group stage,2014-06-25,17:00,Ecuador,France,0,0,draw,0,0,1,2014,816,1533.75,1963.2,1550.64,1946.31
+2014 FIFA World Cup,group stage,2014-06-26,13:00,Portugal,Ghana,2,1,home team win,1,0,0,2014,817,1646.32,1522.57,1660.14,1508.75
+2014 FIFA World Cup,group stage,2014-06-26,13:00,United States,Germany,0,1,away team win,0,1,0,2014,818,1476.9,1883.98,1473.22,1887.66
+2014 FIFA World Cup,group stage,2014-06-26,17:00,Algeria,Russia,1,1,draw,0,0,1,2014,819,1485.83,1471.89,1485.03,1472.69
+2014 FIFA World Cup,group stage,2014-06-26,17:00,South Korea,Belgium,0,1,away team win,0,1,0,2014,820,1503.67,1579.53,1487.18,1596.02
+2014 FIFA World Cup,round of 16,2014-06-28,13:00,Brazil,Chile,1,1,home team win,1,0,0,2014,821,2234.34,1593.56,2235.8,1592.1
+2014 FIFA World Cup,round of 16,2014-06-28,17:00,Colombia,Uruguay,2,0,home team win,1,0,0,2014,822,1516.34,1661.84,1561.01,1617.17
+2014 FIFA World Cup,round of 16,2014-06-29,13:00,Netherlands,Mexico,2,1,home team win,1,0,0,2014,823,1820.36,1583.6,1832.99,1570.97
+2014 FIFA World Cup,round of 16,2014-06-29,17:00,Costa Rica,Greece,1,1,home team win,1,0,0,2014,824,1570.34,1459.0,1591.04,1438.3
+2014 FIFA World Cup,round of 16,2014-06-30,17:00,Germany,Algeria,2,1,home team win,1,0,0,2014,825,1887.66,1485.03,1893.22,1479.47
+2014 FIFA World Cup,round of 16,2014-06-30,13:00,France,Nigeria,2,0,home team win,1,0,0,2014,826,1946.31,1500.69,1950.88,1496.12
+2014 FIFA World Cup,round of 16,2014-07-01,13:00,Argentina,Switzerland,1,0,home team win,1,0,0,2014,827,1853.18,1507.4,1860.63,1499.95
+2014 FIFA World Cup,round of 16,2014-07-01,17:00,Belgium,United States,2,1,home team win,1,0,0,2014,828,1596.02,1473.22,1616.5,1452.74
+2014 FIFA World Cup,quarter-finals,2014-07-04,13:00,France,Germany,0,1,away team win,0,1,0,2014,829,1950.88,1893.22,1897.32,1946.78
+2014 FIFA World Cup,quarter-finals,2014-07-04,17:00,Brazil,Colombia,2,1,home team win,1,0,0,2014,830,2235.8,1561.01,2237.65,1559.16
+2014 FIFA World Cup,quarter-finals,2014-07-05,13:00,Argentina,Belgium,1,0,home team win,1,0,0,2014,831,1860.63,1616.5,1878.75,1598.38
+2014 FIFA World Cup,quarter-finals,2014-07-05,17:00,Netherlands,Costa Rica,0,0,home team win,1,0,0,2014,832,1832.99,1591.04,1850.9,1573.13
+2014 FIFA World Cup,semi-finals,2014-07-08,17:00,Brazil,Germany,1,7,away team win,0,1,0,2014,833,2237.65,1946.78,2113.85,2070.58
+2014 FIFA World Cup,semi-finals,2014-07-09,17:00,Netherlands,Argentina,0,0,away team win,0,1,0,2014,834,1850.9,1878.75,1788.8,1940.85
+2014 FIFA World Cup,third-place match,2014-07-12,17:00,Brazil,Netherlands,0,3,away team win,0,1,0,2014,835,2113.85,1788.8,2073.99,1828.66
+2014 FIFA World Cup,final,2014-07-13,16:00,Germany,Argentina,1,0,home team win,1,0,0,2014,836,2070.58,1940.85,2318.89,1917.54
+2018 FIFA World Cup,group stage,2018-06-14,18:00,Russia,Saudi Arabia,5,0,home team win,1,0,0,2018,837,1472.69,1407.31,1493.04,1386.96
+2018 FIFA World Cup,group stage,2018-06-15,18:00,Morocco,Iran,0,1,away team win,0,1,0,2018,838,1480.28,1413.54,1455.29,1438.53
+2018 FIFA World Cup,group stage,2018-06-15,21:00,Portugal,Spain,3,3,draw,0,0,1,2018,839,1660.14,2053.82,1676.38,2037.58
+2018 FIFA World Cup,group stage,2018-06-15,17:00,Egypt,Uruguay,0,1,away team win,0,1,0,2018,840,1470.45,1617.17,1457.83,1629.79
+2018 FIFA World Cup,group stage,2018-06-16,19:00,Peru,Denmark,0,1,away team win,0,1,0,2018,841,1501.17,1589.05,1485.37,1604.85
+2018 FIFA World Cup,group stage,2018-06-16,21:00,Croatia,Nigeria,2,0,home team win,1,0,0,2018,842,1596.27,1496.12,1612.1,1480.29
+2018 FIFA World Cup,group stage,2018-06-16,13:00,France,Australia,2,1,home team win,1,0,0,2018,843,1897.32,1489.58,1900.99,1485.91
+2018 FIFA World Cup,group stage,2018-06-16,16:00,Argentina,Iceland,1,1,draw,0,0,1,2018,844,1917.54,1500.0,1900.86,1516.68
+2018 FIFA World Cup,group stage,2018-06-17,16:00,Costa Rica,Serbia,0,1,away team win,0,1,0,2018,845,1573.13,1498.25,1547.67,1523.71
+2018 FIFA World Cup,group stage,2018-06-17,18:00,Germany,Mexico,0,1,away team win,0,1,0,2018,846,2318.89,1570.97,2277.45,1612.41
+2018 FIFA World Cup,group stage,2018-06-17,21:00,Brazil,Switzerland,1,1,draw,0,0,1,2018,847,2073.99,1499.95,2055.41,1518.53
+2018 FIFA World Cup,group stage,2018-06-18,15:00,Sweden,South Korea,1,0,home team win,1,0,0,2018,848,1645.39,1487.18,1657.44,1475.13
+2018 FIFA World Cup,group stage,2018-06-18,18:00,Belgium,Panama,3,0,home team win,1,0,0,2018,849,1598.38,1500.0,1615.04,1483.34
+2018 FIFA World Cup,group stage,2018-06-18,21:00,Tunisia,England,1,2,away team win,0,1,0,2018,850,1422.64,1664.59,1414.28,1672.95
+2018 FIFA World Cup,group stage,2018-06-19,15:00,Colombia,Japan,1,2,away team win,0,1,0,2018,851,1559.16,1442.12,1531.34,1469.94
+2018 FIFA World Cup,group stage,2018-06-19,18:00,Poland,Senegal,1,2,away team win,0,1,0,2018,852,1588.1,1535.36,1563.94,1559.52
+2018 FIFA World Cup,group stage,2018-06-19,21:00,Russia,Egypt,3,1,home team win,1,0,0,2018,853,1493.04,1457.83,1512.82,1438.05
+2018 FIFA World Cup,group stage,2018-06-20,15:00,Portugal,Morocco,1,0,home team win,1,0,0,2018,854,1676.38,1455.29,1685.57,1446.1
+2018 FIFA World Cup,group stage,2018-06-20,18:00,Uruguay,Saudi Arabia,1,0,home team win,1,0,0,2018,855,1629.79,1386.96,1638.11,1378.64
+2018 FIFA World Cup,group stage,2018-06-20,21:00,Iran,Spain,0,1,away team win,0,1,0,2018,856,1438.53,2037.58,1437.24,2038.87
+2018 FIFA World Cup,group stage,2018-06-21,21:00,Argentina,Croatia,0,3,away team win,0,1,0,2018,857,1900.86,1612.1,1862.2,1650.76
+2018 FIFA World Cup,group stage,2018-06-21,16:00,Denmark,Australia,1,1,draw,0,0,1,2018,858,1604.85,1485.91,1598.26,1492.5
+2018 FIFA World Cup,group stage,2018-06-21,20:00,France,Peru,1,0,home team win,1,0,0,2018,859,1900.99,1485.37,1904.51,1481.85
+2018 FIFA World Cup,group stage,2018-06-22,15:00,Brazil,Costa Rica,2,0,home team win,1,0,0,2018,860,2055.41,1547.67,2057.66,1545.42
+2018 FIFA World Cup,group stage,2018-06-22,18:00,Nigeria,Iceland,2,0,home team win,1,0,0,2018,861,1480.29,1516.68,1504.59,1492.38
+2018 FIFA World Cup,group stage,2018-06-22,20:00,Serbia,Switzerland,1,2,away team win,0,1,0,2018,862,1523.71,1518.53,1502.4,1539.84
+2018 FIFA World Cup,group stage,2018-06-23,15:00,Belgium,Tunisia,5,2,home team win,1,0,0,2018,863,1615.04,1414.28,1626.05,1403.27
+2018 FIFA World Cup,group stage,2018-06-23,18:00,South Korea,Mexico,1,2,away team win,0,1,0,2018,864,1475.13,1612.41,1462.02,1625.52
+2018 FIFA World Cup,group stage,2018-06-23,21:00,Germany,Sweden,2,1,home team win,1,0,0,2018,865,2277.45,1657.44,2278.6,1656.29
+2018 FIFA World Cup,group stage,2018-06-24,21:00,Poland,Colombia,0,3,away team win,0,1,0,2018,866,1563.94,1531.34,1538.79,1556.49
+2018 FIFA World Cup,group stage,2018-06-24,15:00,England,Panama,6,1,home team win,1,0,0,2018,867,1672.95,1483.34,1685.52,1470.77
+2018 FIFA World Cup,group stage,2018-06-24,20:00,Japan,Senegal,2,2,draw,0,0,1,2018,868,1469.94,1559.52,1474.99,1554.47
+2018 FIFA World Cup,group stage,2018-06-25,20:00,Spain,Morocco,2,2,draw,0,0,1,2018,869,2038.87,1446.1,2020.15,1464.82
+2018 FIFA World Cup,group stage,2018-06-25,21:00,Iran,Portugal,1,1,draw,0,0,1,2018,870,1437.24,1685.57,1449.51,1673.3
+2018 FIFA World Cup,group stage,2018-06-25,17:00,Saudi Arabia,Egypt,2,1,home team win,1,0,0,2018,871,1378.64,1438.05,1403.2,1413.49
+2018 FIFA World Cup,group stage,2018-06-25,18:00,Uruguay,Russia,3,0,home team win,1,0,0,2018,872,1638.11,1512.82,1653.16,1497.77
+2018 FIFA World Cup,group stage,2018-06-26,21:00,Nigeria,Argentina,1,2,away team win,0,1,0,2018,873,1504.59,1862.2,1499.84,1866.95
+2018 FIFA World Cup,group stage,2018-06-26,21:00,Iceland,Croatia,1,2,away team win,0,1,0,2018,874,1492.38,1650.76,1480.34,1662.8
+2018 FIFA World Cup,group stage,2018-06-26,17:00,Australia,Peru,0,2,away team win,0,1,0,2018,875,1492.5,1481.85,1469.83,1504.52
+2018 FIFA World Cup,group stage,2018-06-26,17:00,Denmark,France,0,0,draw,0,0,1,2018,876,1598.26,1904.51,1612.4,1890.37
+2018 FIFA World Cup,group stage,2018-06-27,17:00,South Korea,Germany,2,0,home team win,1,0,0,2018,877,1462.02,2278.6,1505.62,2235.0
+2018 FIFA World Cup,group stage,2018-06-27,19:00,Mexico,Sweden,0,3,away team win,0,1,0,2018,878,1625.52,1656.29,1604.55,1677.26
+2018 FIFA World Cup,group stage,2018-06-27,21:00,Serbia,Brazil,0,2,away team win,0,1,0,2018,879,1502.4,2057.66,1500.67,2059.39
+2018 FIFA World Cup,group stage,2018-06-27,21:00,Switzerland,Costa Rica,2,2,draw,0,0,1,2018,880,1539.84,1545.42,1540.16,1545.1
+2018 FIFA World Cup,group stage,2018-06-28,17:00,Japan,Poland,0,1,away team win,0,1,0,2018,881,1474.99,1538.79,1457.8,1555.98
+2018 FIFA World Cup,group stage,2018-06-28,18:00,Senegal,Colombia,0,1,away team win,0,1,0,2018,882,1554.47,1556.49,1533.59,1577.37
+2018 FIFA World Cup,group stage,2018-06-28,20:00,England,Belgium,0,1,away team win,0,1,0,2018,883,1685.52,1626.05,1660.96,1650.61
+2018 FIFA World Cup,group stage,2018-06-28,21:00,Panama,Tunisia,1,2,away team win,0,1,0,2018,884,1470.77,1403.27,1445.74,1428.3
+2018 FIFA World Cup,round of 16,2018-06-30,21:00,Uruguay,Portugal,2,1,home team win,1,0,0,2018,885,1653.16,1673.3,1685.95,1640.51
+2018 FIFA World Cup,round of 16,2018-06-30,17:00,France,Argentina,4,3,home team win,1,0,0,2018,886,1890.37,1866.95,1919.28,1838.04
+2018 FIFA World Cup,round of 16,2018-07-01,17:00,Spain,Russia,1,1,away team win,0,1,0,2018,887,2020.15,1497.77,1962.98,1554.94
+2018 FIFA World Cup,round of 16,2018-07-01,21:00,Croatia,Denmark,1,1,home team win,1,0,0,2018,888,1662.8,1612.4,1688.48,1586.72
+2018 FIFA World Cup,round of 16,2018-07-02,21:00,Belgium,Japan,3,2,home team win,1,0,0,2018,889,1650.61,1457.8,1665.98,1442.43
+2018 FIFA World Cup,round of 16,2018-07-02,18:00,Brazil,Mexico,2,0,home team win,1,0,0,2018,890,2059.39,1604.55,2063.74,1600.2
+2018 FIFA World Cup,round of 16,2018-07-03,17:00,Sweden,Switzerland,1,0,home team win,1,0,0,2018,891,1677.26,1540.16,1696.62,1520.8
+2018 FIFA World Cup,round of 16,2018-07-03,21:00,Colombia,England,1,1,away team win,0,1,0,2018,892,1577.37,1660.96,1554.45,1683.88
+2018 FIFA World Cup,quarter-finals,2018-07-06,17:00,Uruguay,France,0,2,away team win,0,1,0,2018,893,1685.95,1919.28,1666.49,1938.74
+2018 FIFA World Cup,quarter-finals,2018-07-06,21:00,Brazil,Belgium,1,2,away team win,0,1,0,2018,894,2063.74,1665.98,1980.2,1749.52
+2018 FIFA World Cup,quarter-finals,2018-07-07,18:00,Sweden,England,0,2,away team win,0,1,0,2018,895,1696.62,1683.88,1647.9,1732.6
+2018 FIFA World Cup,quarter-finals,2018-07-07,21:00,Russia,Croatia,2,2,away team win,0,1,0,2018,896,1554.94,1688.48,1526.43,1716.99
+2018 FIFA World Cup,semi-finals,2018-07-10,21:00,France,Belgium,1,0,home team win,1,0,0,2018,897,1938.74,1749.52,1973.23,1715.03
+2018 FIFA World Cup,semi-finals,2018-07-11,21:00,Croatia,England,2,1,home team win,1,0,0,2018,898,1716.99,1732.6,1788.57,1661.02
+2018 FIFA World Cup,third-place match,2018-07-14,17:00,Belgium,England,2,0,home team win,1,0,0,2018,899,1715.03,1661.02,1733.64,1642.41
+2018 FIFA World Cup,final,2018-07-15,18:00,France,Croatia,4,2,home team win,1,0,0,2018,900,1973.23,1788.57,2202.24,1784.56
+2022 FIFA World Cup,group stage,2022-11-20,19:00,Qatar,Ecuador,0,2,away team win,0,1,0,2022,901,1500.0,1550.64,1481.18,1569.46
+2022 FIFA World Cup,group stage,2022-11-21,22:00,United States,Wales,1,1,draw,0,0,1,2022,902,1452.74,1499.61,1455.42,1496.93
+2022 FIFA World Cup,group stage,2022-11-21,16:00,England,Iran,6,2,home team win,1,0,0,2022,903,1642.41,1449.51,1654.3,1437.62
+2022 FIFA World Cup,group stage,2022-11-21,19:00,Senegal,Netherlands,0,2,away team win,0,1,0,2022,904,1533.59,1828.66,1526.79,1835.46
+2022 FIFA World Cup,group stage,2022-11-22,13:00,Argentina,Saudi Arabia,1,2,away team win,0,1,0,2022,905,1838.04,1403.2,1799.22,1442.02
+2022 FIFA World Cup,group stage,2022-11-22,16:00,Denmark,Tunisia,0,0,draw,0,0,1,2022,906,1586.72,1428.3,1578.18,1436.84
+2022 FIFA World Cup,group stage,2022-11-22,19:00,Mexico,Poland,0,0,draw,0,0,1,2022,907,1600.2,1555.98,1597.67,1558.51
+2022 FIFA World Cup,group stage,2022-11-22,22:00,France,Australia,4,1,home team win,1,0,0,2022,908,2202.24,1469.83,2202.91,1469.16
+2022 FIFA World Cup,group stage,2022-11-23,13:00,Morocco,Croatia,0,0,draw,0,0,1,2022,909,1464.82,1784.56,1479.34,1770.04
+2022 FIFA World Cup,group stage,2022-11-23,16:00,Germany,Japan,1,2,away team win,0,1,0,2022,910,2235.0,1442.43,2193.43,1484.0
+2022 FIFA World Cup,group stage,2022-11-23,19:00,Spain,Costa Rica,7,0,home team win,1,0,0,2022,911,1962.98,1545.1,1967.45,1540.63
+2022 FIFA World Cup,group stage,2022-11-23,22:00,Belgium,Canada,1,0,home team win,1,0,0,2022,912,1733.64,1447.22,1740.41,1440.45
+2022 FIFA World Cup,group stage,2022-11-24,22:00,Brazil,Serbia,2,0,home team win,1,0,0,2022,913,1980.2,1500.67,1982.82,1498.05
+2022 FIFA World Cup,group stage,2022-11-24,13:00,Switzerland,Cameroon,1,0,home team win,1,0,0,2022,914,1520.8,1456.4,1537.95,1439.25
+2022 FIFA World Cup,group stage,2022-11-24,16:00,Uruguay,South Korea,0,0,draw,0,0,1,2022,915,1666.49,1505.62,1657.84,1514.27
+2022 FIFA World Cup,group stage,2022-11-24,19:00,Portugal,Ghana,3,2,home team win,1,0,0,2022,916,1640.51,1508.75,1653.91,1495.35
+2022 FIFA World Cup,group stage,2022-11-25,22:00,England,United States,0,0,draw,0,0,1,2022,917,1654.3,1455.42,1643.96,1465.76
+2022 FIFA World Cup,group stage,2022-11-25,19:00,Netherlands,Ecuador,1,1,draw,0,0,1,2022,918,1835.46,1569.46,1822.57,1582.35
+2022 FIFA World Cup,group stage,2022-11-25,13:00,Wales,Iran,0,2,away team win,0,1,0,2022,919,1496.93,1437.62,1471.21,1463.34
+2022 FIFA World Cup,group stage,2022-11-25,16:00,Qatar,Senegal,1,3,away team win,0,1,0,2022,920,1481.18,1526.79,1462.05,1545.92
+2022 FIFA World Cup,group stage,2022-11-26,13:00,Tunisia,Australia,0,1,away team win,0,1,0,2022,921,1436.84,1469.16,1417.79,1488.21
+2022 FIFA World Cup,group stage,2022-11-26,16:00,Poland,Saudi Arabia,2,0,home team win,1,0,0,2022,922,1558.51,1442.02,1573.4,1427.13
+2022 FIFA World Cup,group stage,2022-11-26,19:00,France,Denmark,2,1,home team win,1,0,0,2022,923,2202.91,1578.18,2204.03,1577.06
+2022 FIFA World Cup,group stage,2022-11-26,22:00,Argentina,Mexico,2,0,home team win,1,0,0,2022,924,1799.22,1597.67,1809.72,1587.17
+2022 FIFA World Cup,group stage,2022-11-27,22:00,Spain,Germany,1,1,draw,0,0,1,2022,925,1967.45,2193.43,1978.89,2181.99
+2022 FIFA World Cup,group stage,2022-11-27,13:00,Japan,Costa Rica,0,1,away team win,0,1,0,2022,926,1484.0,1540.63,1466.39,1558.24
+2022 FIFA World Cup,group stage,2022-11-27,16:00,Belgium,Morocco,0,2,away team win,0,1,0,2022,927,1740.41,1479.34,1704.42,1515.33
+2022 FIFA World Cup,group stage,2022-11-27,19:00,Croatia,Canada,4,1,home team win,1,0,0,2022,928,1770.04,1440.45,1776.04,1434.45
+2022 FIFA World Cup,group stage,2022-11-28,19:00,Brazil,Switzerland,1,0,home team win,1,0,0,2022,929,1982.82,1537.95,1985.83,1534.94
+2022 FIFA World Cup,group stage,2022-11-28,22:00,Portugal,Uruguay,2,0,home team win,1,0,0,2022,930,1653.91,1657.84,1676.16,1635.59
+2022 FIFA World Cup,group stage,2022-11-28,13:00,Cameroon,Serbia,3,3,draw,0,0,1,2022,931,1439.25,1498.05,1442.6,1494.7
+2022 FIFA World Cup,group stage,2022-11-28,16:00,South Korea,Ghana,2,3,away team win,0,1,0,2022,932,1514.27,1495.35,1492.13,1517.49
+2022 FIFA World Cup,group stage,2022-11-29,22:00,Wales,England,0,3,away team win,0,1,0,2022,933,1471.21,1643.96,1458.79,1656.38
+2022 FIFA World Cup,group stage,2022-11-29,22:00,Iran,United States,0,1,away team win,0,1,0,2022,934,1463.34,1465.76,1442.49,1486.61
+2022 FIFA World Cup,group stage,2022-11-29,18:00,Ecuador,Senegal,1,2,away team win,0,1,0,2022,935,1582.35,1545.92,1559.16,1569.11
+2022 FIFA World Cup,group stage,2022-11-29,18:00,Netherlands,Qatar,2,0,home team win,1,0,0,2022,936,1822.57,1462.05,1827.48,1457.14
+2022 FIFA World Cup,group stage,2022-11-30,18:00,Australia,Denmark,1,0,home team win,1,0,0,2022,937,1488.21,1577.06,1514.47,1550.8
+2022 FIFA World Cup,group stage,2022-11-30,18:00,Tunisia,France,1,0,home team win,1,0,0,2022,938,1417.79,2204.03,1459.34,2162.48
+2022 FIFA World Cup,group stage,2022-11-30,22:00,Poland,Argentina,0,2,away team win,0,1,0,2022,939,1573.4,1809.72,1564.42,1818.7
+2022 FIFA World Cup,group stage,2022-11-30,22:00,Saudi Arabia,Mexico,1,2,away team win,0,1,0,2022,940,1427.13,1587.17,1415.17,1599.13
+2022 FIFA World Cup,group stage,2022-12-01,18:00,Canada,Morocco,1,2,away team win,0,1,0,2022,941,1434.45,1515.33,1418.25,1531.53
+2022 FIFA World Cup,group stage,2022-12-01,18:00,Croatia,Belgium,0,0,draw,0,0,1,2022,942,1776.04,1704.42,1771.97,1708.49
+2022 FIFA World Cup,group stage,2022-12-01,22:00,Costa Rica,Germany,2,4,away team win,0,1,0,2022,943,1558.24,2181.99,1557.06,2183.17
+2022 FIFA World Cup,group stage,2022-12-01,22:00,Japan,Spain,2,1,home team win,1,0,0,2022,944,1466.39,1978.89,1506.3,1938.98
+2022 FIFA World Cup,group stage,2022-12-02,22:00,Serbia,Switzerland,2,3,away team win,0,1,0,2022,945,1494.7,1534.94,1476.12,1553.52
+2022 FIFA World Cup,group stage,2022-12-02,22:00,Cameroon,Brazil,1,0,home team win,1,0,0,2022,946,1442.6,1985.83,1482.84,1945.59
+2022 FIFA World Cup,group stage,2022-12-02,18:00,Ghana,Uruguay,0,2,away team win,0,1,0,2022,947,1517.49,1635.59,1502.69,1650.39
+2022 FIFA World Cup,group stage,2022-12-02,18:00,South Korea,Portugal,2,1,home team win,1,0,0,2022,948,1492.13,1676.16,1523.32,1644.97
+2022 FIFA World Cup,round of 16,2022-12-03,18:00,Netherlands,United States,3,1,home team win,1,0,0,2022,949,1827.48,1486.61,1835.37,1478.72
+2022 FIFA World Cup,round of 16,2022-12-03,22:00,Argentina,Australia,2,1,home team win,1,0,0,2022,950,1818.7,1514.47,1827.87,1505.3
+2022 FIFA World Cup,round of 16,2022-12-04,18:00,France,Poland,3,1,home team win,1,0,0,2022,951,2162.48,1564.42,2164.46,1562.44
+2022 FIFA World Cup,round of 16,2022-12-04,22:00,England,Senegal,3,0,home team win,1,0,0,2022,952,1656.38,1569.11,1681.26,1544.23
+2022 FIFA World Cup,round of 16,2022-12-05,18:00,Japan,Croatia,1,1,away team win,0,1,0,2022,953,1506.3,1771.97,1495.61,1782.66
+2022 FIFA World Cup,round of 16,2022-12-05,22:00,Brazil,South Korea,4,1,home team win,1,0,0,2022,954,1945.59,1523.32,1950.93,1517.98
+2022 FIFA World Cup,round of 16,2022-12-06,18:00,Morocco,Spain,0,0,home team win,1,0,0,2022,955,1531.53,1938.98,1586.28,1884.23
+2022 FIFA World Cup,round of 16,2022-12-06,22:00,Portugal,Switzerland,6,1,home team win,1,0,0,2022,956,1644.97,1553.52,1670.96,1527.53
+2022 FIFA World Cup,quarter-finals,2022-12-09,18:00,Croatia,Brazil,1,1,home team win,1,0,0,2022,957,1782.66,1950.93,1847.9,1885.69
+2022 FIFA World Cup,quarter-finals,2022-12-09,22:00,Netherlands,Argentina,2,2,away team win,0,1,0,2022,958,1835.37,1827.87,1789.4,1873.84
+2022 FIFA World Cup,quarter-finals,2022-12-10,18:00,Morocco,Portugal,1,0,home team win,1,0,0,2022,959,1586.28,1670.96,1643.27,1613.97
+2022 FIFA World Cup,quarter-finals,2022-12-10,22:00,England,France,1,2,away team win,0,1,0,2022,960,1681.26,2164.46,1675.89,2169.83
+2022 FIFA World Cup,semi-finals,2022-12-13,22:00,Argentina,Croatia,3,0,home team win,1,0,0,2022,961,1873.84,1847.9,1939.09,1782.65
+2022 FIFA World Cup,semi-finals,2022-12-14,22:00,France,Morocco,2,0,home team win,1,0,0,2022,962,2169.83,1643.27,2176.23,1636.87
+2022 FIFA World Cup,third-place match,2022-12-17,18:00,Croatia,Morocco,2,1,home team win,1,0,0,2022,963,1782.65,1636.87,1795.32,1624.2
+2022 FIFA World Cup,final,2022-12-18,18:00,Argentina,France,3,3,home team win,1,0,0,2022,964,1939.09,2176.23,2331.05,2009.27
